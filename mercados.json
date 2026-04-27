@@ -1,0 +1,228 @@
+{
+  "cidade": "Florianópolis",
+  "estado": "SC",
+  "data_verificacao": "2026-02-10",
+  "supermercados": [
+    {
+      "rede": "Imperatriz",
+      "total_unidades": 13,
+      "unidades": [
+        {
+          "nome": "Imperatriz Gourmet Beiramar",
+          "bairro": "Centro",
+          "endereco": "Rua Bocaiúva, 2468"
+        },
+        {
+          "nome": "Imperatriz Gama D'eça",
+          "bairro": "Centro",
+          "endereco": "Av. Othon Gama D'eça, 771"
+        },
+        {
+          "nome": "Imperatriz Mauro Ramos",
+          "bairro": "Centro",
+          "endereco": "Av. Mauro Ramos, 982"
+        },
+        {
+          "nome": "Imperatriz Trindade",
+          "bairro": "Trindade",
+          "endereco": "Rua Lauro Linhares, 2010"
+        },
+        {
+          "nome": "Imperatriz Córrego Grande",
+          "bairro": "Córrego Grande",
+          "endereco": "Rua João Pio Duarte Silva, 1623"
+        },
+        {
+          "nome": "Imperatriz Estreito",
+          "bairro": "Estreito",
+          "endereco": "Rua Gen. Liberato Bitencourt, 410"
+        },
+        {
+          "nome": "Imperatriz Coqueiros",
+          "bairro": "Coqueiros",
+          "endereco": "Av. Eng. Max de Souza, 740"
+        },
+        {
+          "nome": "Imperatriz Canasvieiras",
+          "bairro": "Canasvieiras",
+          "endereco": "Av. das Nações, 192"
+        },
+        {
+          "nome": "Imperatriz Jurerê",
+          "bairro": "Jurerê Internacional",
+          "endereco": "Rod. Jornalista Maurício Sirotski Sobrinho, 5451"
+        },
+        {
+          "nome": "Imperatriz Floripa Shopping",
+          "bairro": "Monte Verde",
+          "endereco": "Rod. SC-401, 3116"
+        },
+        {
+          "nome": "Imperatriz Aeroporto",
+          "bairro": "Carianos",
+          "endereco": "Rod. de Acesso ao Aeroporto, 6200"
+        },
+        {
+          "nome": "Imperatriz Saco dos Limões",
+          "bairro": "Saco dos Limões",
+          "endereco": "Rua José Brognoli, 10"
+        },
+        {
+          "nome": "Imperatriz Lagoa",
+          "bairro": "Lagoa da Conceição",
+          "endereco": "Rua Manoel Severino de Oliveira, 637"
+        }
+      ]
+    },
+    {
+      "rede": "Angeloni",
+      "unidades": [
+        {
+          "nome": "Angeloni Centro",
+          "bairro": "Centro",
+          "endereco": "Rua Esteves Júnior, 307"
+        },
+        {
+          "nome": "Angeloni Top Market",
+          "bairro": "Centro",
+          "endereco": "Rua Hoepcke, 168"
+        },
+        {
+          "nome": "Angeloni Beiramar",
+          "bairro": "Agronômica",
+          "endereco": "Av. Irineu Bornhausen, 5288"
+        },
+        {
+          "nome": "Angeloni Capoeiras",
+          "bairro": "Capoeiras",
+          "endereco": "Av. Gov. Ivo Silveira, 2445"
+        },
+        {
+          "nome": "Angeloni Jardim Atlântico",
+          "bairro": "Jardim Atlântico",
+          "endereco": "Av. Marinheiro Max Schramm, 3450"
+        },
+        {
+          "nome": "Angeloni Santa Mônica",
+          "bairro": "Santa Mônica",
+          "endereco": "Rua Nirberto Haase, 75"
+        },
+        {
+          "nome": "Angeloni Trindade",
+          "bairro": "Trindade",
+          "endereco": "Rua Professor Simão José Hess, 190"
+        },
+        {
+          "nome": "Angeloni Ingleses",
+          "bairro": "Ingleses",
+          "endereco": "Rod. SC-403, 6375"
+        },
+        {
+          "nome": "Angeloni Jurerê",
+          "bairro": "Jurerê Internacional",
+          "endereco": "Rua das Raias, 471"
+        }
+      ]
+    },
+    {
+      "rede": "Fort Atacadista",
+      "unidades": [
+        {
+          "nome": "Fort Campeche",
+          "bairro": "Campeche",
+          "endereco": "Rod. Francisco Magno Vieira, s/n (SC-405)"
+        },
+        {
+          "nome": "Fort Rio Tavares",
+          "bairro": "Rio Tavares",
+          "endereco": "Rod. Dr. Antônio Luiz Moura Gonzaga, 1616"
+        },
+        {
+          "nome": "Fort Canasvieiras",
+          "bairro": "Canasvieiras",
+          "endereco": "Rod. José Carlos Daux, Km 01 (SC-401)"
+        },
+        {
+          "nome": "Fort Santo Antônio",
+          "bairro": "Santo Antônio de Lisboa",
+          "endereco": "Rod. José Carlos Daux, 9580 (SC-401)"
+        },
+        {
+          "nome": "Fort Jardim Atlântico",
+          "bairro": "Jardim Atlântico",
+          "endereco": "Rua Elesbão Pinto da Luz, 1183"
+        }
+      ]
+    },
+    {
+      "rede": "Brasil Atacadista",
+      "unidades": [
+        {
+          "nome": "Brasil Atacadista Ingleses",
+          "bairro": "Ingleses",
+          "endereco": "Rod. Armando Calil Bulos, 5890"
+        },
+        {
+          "nome": "Brasil Atacadista Rio Tavares",
+          "bairro": "Rio Tavares",
+          "endereco": "Rod. Francisco Magno Vieira, 373 (SC-405)"
+        }
+      ]
+    },
+    {
+      "rede": "Giassi",
+      "unidades": [
+        {
+          "nome": "Giassi Santa Mônica",
+          "bairro": "Santa Mônica",
+          "endereco": "Rua Padre Lourenço R. de Andrade, 496"
+        },
+        {
+          "nome": "Giassi SC-401",
+          "bairro": "Saco Grande",
+          "endereco": "Rod. José Carlos Daux, 4460 (SC-401)"
+        }
+      ]
+    },
+    {
+      "rede": "Bistek",
+      "unidades": [
+        {
+          "nome": "Bistek Costeira",
+          "bairro": "Costeira do Pirajubaé",
+          "endereco": "Rua João Câncio Jacques, 49"
+        },
+        {
+          "nome": "Bistek Monte Verde",
+          "bairro": "Monte Verde",
+          "endereco": "Rua Timbaúba, s/n (Marginal SC-401)"
+        },
+        {
+          "nome": "Bistek Abraão",
+          "bairro": "Abraão",
+          "endereco": "Av. Patrício Caldeira de Andrade, 442"
+        },
+        {
+          "nome": "Bistek Morro das Pedras",
+          "bairro": "Morro das Pedras",
+          "endereco": "Rod. Francisco Thomaz dos Santos, 1249"
+        }
+      ]
+    },
+    {
+      "rede": "Supermercados Prado",
+      "unidades": [
+        {
+          "nome": "Prado Estreito",
+          "bairro": "Estreito",
+          "endereco": "Rua Cel. Pedro Demoro, 1628"
+        },
+        {
+          "nome": "Prado Canasvieiras",
+          "bairro": "Canasvieiras",
+          "endereco": "Rua Madre Maria Vilac, 986"
+        }
+      ]
+    }
+  ]
+}

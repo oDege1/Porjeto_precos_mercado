@@ -1,0 +1,976 @@
+﻿Termo;Produto;Preço;Valor_Num;Tipo_Medida;Preço_Proporcional;Mercado;Data
+leite;Leite Condensado MOÇA Zero Lactose Caixinha 395g;R$ 10,90;10.9;Preço por Kg;27.59;Angeloni;18/02/2026
+leite;Creme de Leite NESTLÉ Zero Lactose 200G;R$ 6,79;6.79;Preço por Kg;33.95;Angeloni;18/02/2026
+leite;Leite Condensado MOÇA Semidesnatado 395g;R$ 6,99;6.99;Preço por Kg;17.7;Angeloni;18/02/2026 (Encarte)
+leite;Leite Semidesnatado TIROL Zero Lactose 1L;R$ 3,99;3.99;Preço por Litro;3.99;Angeloni;18/02/2026
+leite;Leite Tirol Semidesnatado Com Tampa 1l;R$ 3,29;3.29;Preço por Litro;3.29;Angeloni;18/02/2026 (Encarte)
+leite;Leite Integral TIROL 0% Lactose 1l;R$ 3,99;3.99;Preço por Litro;3.99;Angeloni;18/02/2026
+leite;Leite PIRACANJUBA Integral 1l;R$ 3,79;3.79;Preço por Litro;3.79;Angeloni;18/02/2026
+leite;Leite Parmalat Integral 1l;R$ 3,65;3.65;Preço por Litro;3.65;Angeloni;18/02/2026
+leite;Leite Uht Nestlé Ninho Integral 1l;R$ 5,69;5.69;Preço por Litro;5.69;Angeloni;18/02/2026
+leite;Leite Naturalle Integral Naturalle 1l;R$ 5,49;5.49;Preço por Litro;5.49;Angeloni;18/02/2026
+leite;Leite PIRACANJUBA Semidesnatado Zero Lactose 1L;R$ 4,39;4.39;Preço por Litro;4.39;Angeloni;18/02/2026
+leite;Leite Piracanjuba Semi Desnatado 1l;R$ 3,79;3.79;Preço por Litro;3.79;Angeloni;18/02/2026
+ovo;Ovo IANA Grande com 30 Unidades;R$ 13,90;13.9;Preço por Unidade;0.46;Angeloni;18/02/2026
+ovo;Ovo MARUTANI Grande Vermelho Selenio Omega 3 10 Unidades;R$ 6,99;6.99;Preço por Unidade;0.7;Angeloni;18/02/2026
+ovo;Ovo MARUTANI Grande Vermelho 10 Unidades;R$ 6,99;6.99;Preço por Unidade;0.7;Angeloni;18/02/2026
+ovo;Ovo MARUTANI Grande Vermelho Selenio 10 Unidades;R$ 6,99;6.99;Preço por Unidade;0.7;Angeloni;18/02/2026
+ovo;Ovo Caipira RAIAR Grande Orgânico com 20 unidades;R$ 30,50;30.5;Preço por Unidade;1.52;Angeloni;18/02/2026
+ovo;Ovo Caipira Vermelho Orgânico Grande FAZENDA DA TOCA 10un;R$ 18,90;18.9;Preço por Unidade;1.89;Angeloni;18/02/2026
+ovo;Ovo branco MARUTANI Grande com 12 unidades;R$ 11,59;11.59;Preço por Unidade;0.97;Angeloni;18/02/2026
+carne;Escondidinho de Carne Moída SEARA Na Panelinha 300g;R$ 22,89;22.89;Preço por Kg;76.3;Angeloni;18/02/2026
+carne;Bolinho de carne suína com barbecue SEARA Netflix 270g;R$ 19,99;19.99;Preço por Kg;74.04;Angeloni;18/02/2026
+carne;Carne Moída Bovino TOP QUALITY Patinho ATM Resfriado 500g;R$ 35,01;35.01;Preço por Kg;70.02;Angeloni;18/02/2026
+carne;Carne Moída Bovina BEST BEEF Dianteiro Resfriada 400g;R$ 18,99;18.99;Preço por Kg;47.47;Angeloni;18/02/2026
+carne;Carne Moida Bovino TOP QUALITY Acem ATM Resfriado 500g;R$ 33,50;33.5;Preço por Kg;67.0;Angeloni;18/02/2026
+carne;Carne Moída Suino PAMPLONA Congelada 500g;R$ 10,90;10.9;Preço por Kg;21.8;Angeloni;18/02/2026
+carne;Carne Seca PAINEIRA Dianteira 400g;R$ 30,49;30.49;Preço por Kg;76.22;Angeloni;18/02/2026
+carne;Carne Moída Bovina KORIN Orgânica Congelada 400g;R$ 52,90;52.9;Preço por Kg;132.25;Angeloni;18/02/2026
+arroz;Arroz Carreteiro SEARA Na Panelinha 300g;R$ 22,89;22.89;Preço por Kg;76.3;Angeloni;18/02/2026
+arroz;Ração DOG CHOW Filhotes,Raças Minis e Pequenas Carne,Frango e Arroz Extra Life 1kg;R$ 19,90;19.9;Preço por Kg;19.9;Angeloni;18/02/2026
+arroz;Arroz Parboilizado URBANO 1kg;R$ 2,99;2.99;Preço por Kg;2.99;Angeloni;18/02/2026
+arroz;Arroz Parboilizado KIARROZ Fumacense 1kg;R$ 2,66;2.66;Preço por Kg;2.66;Angeloni;18/02/2026
+arroz;Arroz Branco TIO JOÃO 1kg;R$ 6,99;6.99;Preço por Kg;6.99;Angeloni;18/02/2026
+arroz;Arroz Branco TIO URBANO 1kg;R$ 3,99;3.99;Preço por Kg;3.99;Angeloni;18/02/2026
+arroz;Arroz Branco KIARROZ 1kg;R$ 2,66;2.66;Preço por Kg;2.66;Angeloni;18/02/2026
+arroz;Arroz MONTE ROMANO Arborio 500g;R$ 10,19;10.19;Preço por Kg;20.38;Angeloni;18/02/2026
+feijão;Caldinho de Feijão SEARA Na Panelinha 300g;R$ 20,50;20.5;Preço por Kg;68.33;Angeloni;18/02/2026
+feijão;Feijão Preto CALDÃO Tipo 1 1Kg;R$ 3,99;3.99;Preço por Kg;3.99;Angeloni;18/02/2026
+feijão;Feijão Preto CALDO BOM 1kg;R$ 5,79;5.79;Preço por Kg;5.79;Angeloni;18/02/2026
+feijão;Feijão Preto URBANO Tipo 1 1kg;R$ 5,39;5.39;Preço por Kg;5.39;Angeloni;18/02/2026
+feijão;Feijão Carioca CALDO BOM 1kg;R$ 8,55;8.55;Preço por Kg;8.55;Angeloni;18/02/2026
+feijão;Feijão Vermelho CALDÃO Tipo 1 1Kg;R$ 11,99;11.99;Preço por Kg;11.99;Angeloni;18/02/2026
+feijão;Feijão Vermelho CALDO BOM 1kg;R$ 13,50;13.5;Preço por Kg;13.5;Angeloni;18/02/2026
+feijão;Feijão Carioca CALDÃO Tipo 1 1Kg;R$ 7,49;7.49;Preço por Kg;7.49;Angeloni;18/02/2026
+leite;Leite Uht Semidesnatado Zero Lactose Tirol 1l;R$ 3,97;3.97;Preço por Litro;3.97;Bistek;18/02/2026
+leite;Leite Uht Semidesnatado Zero Lactose Elegê Caixa Com Tampa 1l;R$ 4,47;4.47;Preço por Litro;4.47;Bistek;18/02/2026
+leite;Leite Longa Vida Parmalat Integral 1l;R$ 3,47;3.47;Preço por Litro;3.47;Bistek;18/02/2026
+leite;Leite Longa Vida Integral Tirol 1l;R$ 3,47;3.47;Preço por Litro;3.47;Bistek;18/02/2026
+leite;Leite Piracanjuba Zero Lactose 1l;R$ 4,37;4.37;Preço por Litro;4.37;Bistek;18/02/2026
+leite;Leite Longa Vida Parmalat Semidesnatado  1l;R$ 3,47;3.47;Preço por Litro;3.47;Bistek;18/02/2026
+leite;Leite Condensado Tirol 395g Tp;R$ 5,99;5.99;Preço por Kg;15.16;Bistek;18/02/2026
+leite;Leite Pasteurizado Fazenda Trevisan Tipo A Sem Lactose 1l;R$ 10,47;10.47;Preço por Litro;10.47;Bistek;18/02/2026
+leite;Leite Condensado Semidesnatado Moça 395g;R$ 8,49;8.49;Preço por Kg;21.49;Bistek;18/02/2026
+leite;Leite Condensado Tirol Zero Lactose 395g;R$ 9,49;9.49;Preço por Kg;24.03;Bistek;18/02/2026
+leite;Leite De Coco Sococo 200ml;R$ 8,49;8.49;Preço por Litro;42.45;Bistek;18/02/2026
+leite;Leite Longa Vida Parmalat Desnatado 1l;R$ 3,47;3.47;Preço por Litro;3.47;Bistek;18/02/2026
+leite;Leite Pó Instantâneo Integral Piracanjuba 400g;R$ 19,49;19.49;Preço por Kg;48.72;Bistek;18/02/2026
+leite;Leite Pó Integral Ninho Lata Leve 380g Pague 342g;R$ 23,39;23.39;Preço por Kg;61.55;Bistek;18/02/2026
+leite;Leite Uht Piracanjuba 1l  A2 Zr.Lactose;R$ 7,37;7.37;Preço por Litro;7.37;Bistek;18/02/2026
+leite;Leite Em Pó Molico Desnatado Lata 280g;R$ 25,99;25.99;Preço por Kg;92.82;Bistek;18/02/2026
+leite;Leite Pó Ninho Integral 380g;R$ 25,99;25.99;Preço por Kg;68.39;Bistek;18/02/2026
+leite;Leite Tirol Tampa Semi-Desnatado 1 Litro;R$ 3,57;3.57;Preço por Litro;3.57;Bistek;18/02/2026
+leite;Leite Pó Instantâneo Integral Ninho 380g;R$ 25,99;25.99;Preço por Kg;68.39;Bistek;18/02/2026
+leite;Leite Pó Instantâneo Integral Ninho Lata 380g Grátis 10%;R$ 23,39;23.39;Preço por Kg;61.55;Bistek;18/02/2026
+leite;Leite Uht Ninho 1l Semidesnat Zr.Lactose;R$ 6,17;6.17;Preço por Litro;6.17;Bistek;18/02/2026
+leite;Leite Pó Integral Tirol Pacote 400g;R$ 18,99;18.99;Preço por Kg;47.47;Bistek;18/02/2026
+leite;Leite Condensado Integral Moça 395g;R$ 11,99;11.99;Preço por Kg;30.35;Bistek;18/02/2026
+leite;Leite Uht Desnatado Letíssimo 1l;R$ 9,37;9.37;Preço por Litro;9.37;Bistek;18/02/2026
+leite;Leite Ferm.Elege 480g Bob Espon.Uva C/6;R$ 6,97;6.97;Preço por Kg;14.52;Bistek;18/02/2026
+leite;Leite De Coco Menina 200ml;R$ 4,79;4.79;Preço por Litro;23.95;Bistek;18/02/2026
+leite;Leite Fermentado Yakult C/  6 Un. 480g;R$ 13,97;13.97;Preço por Kg;29.1;Bistek;18/02/2026
+leite;Leite Desnatado Molico +Proteína Zero Lactose 1l;R$ 8,17;8.17;Preço por Litro;8.17;Bistek;18/02/2026
+leite;Leite Uht Piracanjuba 1l Semidesnat A2;R$ 7,47;7.47;Preço por Litro;7.47;Bistek;18/02/2026
+leite;Leite L.Vida Ninho 1lt Zr Lacto.+Vit Int;R$ 6,17;6.17;1 Un/Kg/L (Padrão);6.17;Bistek;18/02/2026
+leite;Leite Longa Vida Ninho Levinho 1 Litro Semidesnatado;R$ 5,77;5.77;Preço por Litro;5.77;Bistek;18/02/2026
+leite;Leite Condensado Piracanjuba 395g S/Lact;R$ 8,99;8.99;Preço por Kg;22.76;Bistek;18/02/2026
+leite;Leite Po Piracanjuba 380g Integral A2;R$ 26,99;26.99;Preço por Kg;71.03;Bistek;18/02/2026
+leite;Leite Coco Mais Coco 500ml Vidro;R$ 19,79;19.79;Preço por Litro;39.58;Bistek;18/02/2026
+leite;Leite Fermentado Desnatado Morango Light Zero Lactose Activia Zero Frasco 170g;R$ 3,97;3.97;Preço por Kg;23.35;Bistek;18/02/2026
+leite;Leite Uht Piracanjuba 1l Desnatado +Calc;R$ 5,97;5.97;Preço por Litro;5.97;Bistek;18/02/2026
+leite;Leite De Arroz Risovita 1l;R$ 17,99;17.99;Preço por Litro;17.99;Bistek;18/02/2026
+leite;Leite Coco Mais Coco 200ml Vidro;R$ 7,99;7.99;Preço por Litro;39.95;Bistek;18/02/2026
+leite;Leite Fermentado Yakult C/ 6 Un. 480g;R$ 14,97;14.97;Preço por Kg;31.19;Bistek;18/02/2026
+leite;Leite L.Vida Ninho 1lt Tradicional +Vit Integral;R$ 5,77;5.77;1 Un/Kg/L (Padrão);5.77;Bistek;18/02/2026
+leite;Leite Past.Purolatte 1l Tipo A Integ A2;R$ 8,97;8.97;Preço por Litro;8.97;Bistek;18/02/2026
+leite;Leite L.Vida Tirol 1l Desnatado T.Rosca;R$ 3,57;3.57;Preço por Litro;3.57;Bistek;18/02/2026
+leite;Leite Fermentado Tirol 170g Baunilha;R$ 3,77;3.77;Preço por Kg;22.18;Bistek;18/02/2026
+leite;Leite Po La Serenissima 300g Int.S/Lact;R$ 22,99;22.99;Preço por Kg;76.63;Bistek;18/02/2026
+leite;Leite Uht Naturalle 1l Semidesnatado;R$ 5,47;5.47;Preço por Litro;5.47;Bistek;18/02/2026
+leite;Leite Fermentado Activia 170g Morango;R$ 4,27;4.27;Preço por Kg;25.12;Bistek;18/02/2026
+leite;Locao Limpeza Leite Colonia 100ml Fant;R$ 7,99;7.99;Preço por Litro;79.9;Bistek;18/02/2026
+leite;Leite Fermentado Vigor 800g Minions;R$ 11,47;11.47;Preço por Kg;14.34;Bistek;18/02/2026
+ovo;Ovos Becker Vermelho C/20;R$ 15,49;15.49;Preço por Unidade;0.77;Bistek;18/02/2026
+ovo;Ovos Caipira Free Lar C/20;R$ 18,99;18.99;Preço por Unidade;0.95;Bistek;18/02/2026
+ovo;Ovo Caipira Orgânico Raiar Com 20 Unidades;R$ 28,49;28.49;Preço por Unidade;1.42;Bistek;18/02/2026
+ovo;Ovos De Codorna Bottega 300g;R$ 15,49;15.49;Preço por Kg;51.63;Bistek;18/02/2026
+ovo;Ovos Caipira Grande Ares Do Campo Bandeja 20 Unidades;R$ 18,99;18.99;Preço por Unidade;0.95;Bistek;18/02/2026
+ovo;Ovos Vermelho Becker Com 12 Unidades;R$ 10,99;10.99;Preço por Unidade;0.92;Bistek;18/02/2026
+ovo;Kinder Ovo Roxo 1 Unidade 20g;R$ 12,99;12.99;Preço por Kg;649.5;Bistek;18/02/2026
+ovo;Kinder Ovo Laranja 2 Unidades 40g;R$ 24,99;24.99;Preço por Kg;624.75;Bistek;18/02/2026
+ovo;Ovos Vermelho Jumbo Free Lar Com 10 Unidades;R$ 11,99;11.99;Preço por Unidade;1.2;Bistek;18/02/2026
+ovo;Ovos Codorna C/30;R$ 8,99;8.99;Preço por Unidade;0.3;Bistek;18/02/2026
+ovo;Ovos Vermelho Becker Com 6 Unidades;R$ 5,99;5.99;Preço por Unidade;1.0;Bistek;18/02/2026
+ovo;Ovo Caipira Orgânico Raiar Grande Com 10 Unidades;R$ 16,49;16.49;Preço por Unidade;1.65;Bistek;18/02/2026
+ovo;Ovo Orgânico Filippsen Com 10 Unidades;R$ 13,99;13.99;Preço por Unidade;1.4;Bistek;18/02/2026
+ovo;Ovos Caipira Ômega 3 Filippsen Com 10 Unidades;R$ 10,49;10.49;Preço por Unidade;1.05;Bistek;18/02/2026
+ovo;Kinder Ovo Natoons 1 Unidade 20g;R$ 12,99;12.99;Preço por Kg;649.5;Bistek;18/02/2026
+ovo;Ovo De Páscoa Branco Laka Lacta 162g;R$ 56,99;56.99;Preço por Kg;351.79;Bistek;18/02/2026
+ovo;Ovo De Páscoa Ao Leite Prestígio Nestlé 225g;R$ 79,99;79.99;Preço por Kg;355.51;Bistek;18/02/2026
+ovo;Ovo De Páscoa Ao Leite Crunch Nestlé 205g;R$ 79,99;79.99;Preço por Kg;390.2;Bistek;18/02/2026
+ovo;Ovo De Páscoa Ao Leite Mundo Da Veterinária Kinder 150g Vem Com Surpresa;R$ 104,90;104.9;Preço por Kg;699.33;Bistek;18/02/2026
+ovo;Ovo De Páscoa Ferrero Collection 354g;R$ 139,90;139.9;Preço por Kg;395.2;Bistek;18/02/2026
+ovo;Ovo Pascoa Nugali 120g Ao Leite Joaninha;R$ 62,90;62.9;Preço por Kg;524.17;Bistek;18/02/2026
+ovo;Ovo Pascoa Nugali 185g Ao Leite 45% S/G;R$ 89,99;89.99;Preço por Kg;486.43;Bistek;18/02/2026
+ovo;Ovos Codorna Zizo 300g;R$ 18,99;18.99;Preço por Kg;63.3;Bistek;18/02/2026
+ovo;Ovo Pascoa Lindt 125g G.Bunny Ao Leite;R$ 129,90;129.9;Preço por Kg;1039.2;Bistek;18/02/2026
+ovo;Ovo De Páscoa Surpresa 204g;R$ 79,99;79.99;Preço por Kg;392.11;Bistek;18/02/2026
+ovo;Ovo De Páscoa Ao Leite Classic Nestlé 199g;R$ 79,99;79.99;Preço por Kg;401.96;Bistek;18/02/2026
+ovo;Ovo De Páscoa Branco Negresco Garoto 240g;R$ 79,99;79.99;Preço por Kg;333.29;Bistek;18/02/2026
+ovo;Ovo De Páscoa Ao Leite Crocante Garoto 227g;R$ 69,99;69.99;Preço por Kg;308.33;Bistek;18/02/2026
+ovo;Ovo De Páscoa Caribe Garoto 229g;R$ 79,99;79.99;Preço por Kg;349.3;Bistek;18/02/2026
+ovo;Ovo De Páscoa Ao Leite Baton Garoto 204g;R$ 69,99;69.99;Preço por Kg;343.09;Bistek;18/02/2026
+ovo;Ovo De Páscoa Branco Galak Nestlé 199g;R$ 79,99;79.99;Preço por Kg;401.96;Bistek;18/02/2026
+ovo;Ovo De Páscoa Ao Leite Talento Avelãs Garoto 350g;R$ 79,99;79.99;Preço por Kg;228.54;Bistek;18/02/2026
+ovo;Ovo De Páscoa Ao Leite Ferrero Collection 138,05g Caixa;R$ 69,99;69.99;Preço por Kg;506.99;Bistek;18/02/2026
+ovo;Ovo De Páscoa Ferrero Rocher Caixa 137,5g;R$ 69,99;69.99;Preço por Kg;509.02;Bistek;18/02/2026
+ovo;Ovo de Páscoa Ferrero Rocher Dark Caixa 137,5g;R$ 69,99;69.99;Preço por Kg;509.02;Bistek;18/02/2026
+ovo;Ovo De Páscoa Ferrero Rocher 365g;R$ 139,90;139.9;Preço por Kg;383.29;Bistek;18/02/2026
+ovo;Ovo Páscoa Florestal Ao Leite 130g;R$ 38,99;38.99;Preço por Kg;299.92;Bistek;18/02/2026
+ovo;Ovo De Páscoa Ao Leite Florestal Spiks 150g;R$ 69,99;69.99;Preço por Kg;466.6;Bistek;18/02/2026
+ovo;Ovo De Páscoa Ao Leite Charge Nestlé 240g;R$ 79,99;79.99;Preço por Kg;333.29;Bistek;18/02/2026
+ovo;Ovo De Páscoa Ao Leite Kitkat Nestlé 338,5g;R$ 89,99;89.99;Preço por Kg;265.85;Bistek;18/02/2026
+carne;Carne Moída Para Macarronada 400g;R$ 21,97;21.97;Preço por Kg;54.92;Bistek;18/02/2026
+carne;Carne Moída Para Macarronada 500g;R$ 24,70;24.7;Preço por Kg;49.4;Bistek;18/02/2026
+carne;Carne Moida Fazenda Futuro 270g Vegetal;R$ 28,47;28.47;Preço por Kg;105.44;Bistek;18/02/2026
+carne;Carne Moída Coxão Mole 500g;R$ 41,88;41.88;Preço por Kg;83.76;Bistek;18/02/2026
+carne;Carne Moida Frango Ave Serra 500g;R$ 12,97;12.97;Preço por Kg;25.94;Bistek;18/02/2026
+carne;Carne Seca Vapza Curada Desfiada 400g;R$ 69,99;69.99;Preço por Kg;174.97;Bistek;18/02/2026
+carne;Carne Moída Para Almôndega 500g;R$ 32,89;32.89;Preço por Kg;65.78;Bistek;18/02/2026
+carne;Carne Moída Costela Para Hambúrguer 500g;R$ 24,71;24.71;Preço por Kg;49.42;Bistek;18/02/2026
+carne;Ração Alpo Todos Os Tamanhos Adultos Carne, Frango, Cereais E Vegetais 1kg;R$ 17,99;17.99;Preço por Kg;17.99;Bistek;18/02/2026
+carne;Bifinho Para Cães Doguitos Carne 65g;R$ 7,49;7.49;Preço por Kg;115.23;Bistek;18/02/2026
+carne;Sopa De Carne Com Conchinha Maggi 63g;R$ 6,49;6.49;Preço por Kg;103.02;Bistek;18/02/2026
+carne;Extrato De Tomate Carne De Panela Elefante 300g;R$ 7,99;7.99;Preço por Kg;26.63;Bistek;18/02/2026
+carne;Macarrão Instantâneo Renata 85g Carne;R$ 1,69;1.69;Preço por Kg;19.88;Bistek;18/02/2026
+carne;Caldo Knorr 57g Carne;R$ 3,79;3.79;Preço por Kg;66.49;Bistek;18/02/2026
+carne;Tempero Pó Para Carnes Sazón Pacote 60g 12 Unidades;R$ 6,49;6.49;Preço por Kg;108.17;Bistek;18/02/2026
+carne;Macarrão Instantâneo Nissin 85g Carne / Tomate;R$ 3,09;3.09;Preço por Kg;36.35;Bistek;18/02/2026
+carne;Sopão Carne De Panela Maggi 200g;R$ 9,99;9.99;Preço por Kg;49.95;Bistek;18/02/2026
+carne;Macarrão Instantâneo Nissin Lámen 85g Turma Da Mônica Carne;R$ 3,19;3.19;Preço por Kg;37.53;Bistek;18/02/2026
+carne;Caldo Sabor Carne Maggi 114g 31% Menos Sódio;R$ 5,99;5.99;Preço por Kg;52.54;Bistek;18/02/2026
+carne;Tempero Em Pó Para Todos Os Tipos De Carne Maggi Gril 120g;R$ 10,99;10.99;Preço por Kg;91.58;Bistek;18/02/2026
+carne;Caldo Sabor Carne Maggi 152g;R$ 7,49;7.49;Preço por Kg;49.28;Bistek;18/02/2026
+carne;Caldo Em Pó Sabor Carne Maggi 35g;R$ 2,99;2.99;Preço por Kg;85.43;Bistek;18/02/2026
+carne;Petisco Para Gatos Com Carne Cordeiro E Carne Suína Purina Friskies Party Mix Pouch 40g;R$ 6,99;6.99;Preço por Kg;174.75;Bistek;18/02/2026
+carne;Ração Para Cão Purina One Frango E Carne Adulto 700g;R$ 34,99;34.99;Preço por Kg;49.99;Bistek;18/02/2026
+carne;Alimento P/ Cão Pedigree Pouch 100g Adulto Carne Ao Molho;R$ 3,69;3.69;Preço por Kg;36.9;Bistek;18/02/2026
+carne;Whiskas Pratos Favoritos 85g Carne Tenra;R$ 3,29;3.29;Preço por Kg;38.71;Bistek;18/02/2026
+carne;Alimento Cao Pedigree 100g Ad.7+ Carne;R$ 3,69;3.69;Preço por Kg;36.9;Bistek;18/02/2026
+carne;Macarrão Instantâneo Yakissoba Carne Com Molho Japonês Nissin U.F.O. Bandeja 97g;R$ 8,99;8.99;Preço por Kg;92.68;Bistek;18/02/2026
+carne;Whiskas Pratos Favoritos 85g Filhotes Carne;R$ 3,29;3.29;Preço por Kg;38.71;Bistek;18/02/2026
+carne;Sopa Instantânea Vono Batata Com Carne 18g;R$ 3,79;3.79;Preço por Kg;210.56;Bistek;18/02/2026
+carne;Macarrão Instantâneo Nissin Talharim 99g Carne / Tomate;R$ 3,99;3.99;Preço por Kg;40.3;Bistek;18/02/2026
+carne;Macarrão Instantâneo Cup Noodles Parmegiana De Carne 68g;R$ 5,99;5.99;Preço por Kg;88.09;Bistek;18/02/2026
+carne;Sopa Individual Vono Batata Com Carne 25% Menos Sódio 18g;R$ 3,79;3.79;Preço por Kg;210.56;Bistek;18/02/2026
+carne;Capeletti Da Boa 400g Carne;R$ 12,97;12.97;Preço por Kg;32.42;Bistek;18/02/2026
+carne;Alimento Gato Kitekat 70g Molho Carne;R$ 2,79;2.79;Preço por Kg;39.86;Bistek;18/02/2026
+carne;Ração Whiskas Gatos Castrados 500g Carne;R$ 19,49;19.49;Preço por Kg;38.98;Bistek;18/02/2026
+carne;Caldo Sazon 32,5g Carne;R$ 3,59;3.59;Preço por Kg;110.46;Bistek;18/02/2026
+carne;Alimento Para Cães Adultos Carne E Frango Purina Dog Chow Nutrição Reforçada Com Extra Life Pacote 900g;R$ 25,99;25.99;Preço por Kg;28.88;Bistek;18/02/2026
+carne;Ração Para Cão Purina One Frango E Carnes Filhote 700g;R$ 37,99;37.99;Preço por Kg;54.27;Bistek;18/02/2026
+carne;Alimento Para Cães Adultos Raças Minis E Pequenas Carne E Frango Purina Dog Chow Nutrição Reforçada Com Extra Life Pacote 900g;R$ 24,99;24.99;Preço por Kg;27.77;Bistek;18/02/2026
+arroz;Arroz Branco Tio Urbano 1kg;R$ 4,19;4.19;Preço por Kg;4.19;Bistek;18/02/2026
+arroz;Arroz Urbano Parboilizado Pacote 1kg;R$ 3,99;3.99;Preço por Kg;3.99;Bistek;18/02/2026
+arroz;Mix Farinhas Urbano 1kg S/Gluten;R$ 15,49;15.49;Preço por Kg;15.49;Bistek;18/02/2026
+arroz;Arroz Parboilizado Kiarroz 1kg;R$ 2,89;2.89;Preço por Kg;2.89;Bistek;18/02/2026
+arroz;Flocos Arroz Urbano 500g S/Gluten;R$ 3,99;3.99;Preço por Kg;7.98;Bistek;18/02/2026
+arroz;Arroz Branco Tio Joao 1kg;R$ 6,99;6.99;Preço por Kg;6.99;Bistek;18/02/2026
+arroz;Arroz Branco Kiarroz Fumacense 1kg;R$ 2,95;2.95;Preço por Kg;2.95;Bistek;18/02/2026
+arroz;Arroz Branco Rampinelli 1kg Premium;R$ 6,99;6.99;Preço por Kg;6.99;Bistek;18/02/2026
+arroz;Macarrão De Arroz Urbano Pena 500g;R$ 5,79;5.79;Preço por Kg;11.58;Bistek;18/02/2026
+arroz;Macarrão Arroz Urbano 500g Parafuso;R$ 5,79;5.79;Preço por Kg;11.58;Bistek;18/02/2026
+arroz;Arroz Branco Tio Urbano 5kg;R$ 20,49;20.49;Preço por Kg;4.1;Bistek;18/02/2026
+arroz;Feijao Carioca Urbano 1kg;R$ 8,79;8.79;Preço por Kg;8.79;Bistek;18/02/2026
+arroz;Arroz Parboilizado Timbe 5kg;R$ 12,79;12.79;Preço por Kg;2.56;Bistek;18/02/2026
+arroz;Arroz Integral Caldo Bom 500g 10 Graos;R$ 7,99;7.99;Preço por Kg;15.98;Bistek;18/02/2026
+arroz;Arroz Integral Urbano 1kg;R$ 4,79;4.79;Preço por Kg;4.79;Bistek;18/02/2026
+arroz;Arroz Arborio Urbano 1kg;R$ 23,99;23.99;Preço por Kg;23.99;Bistek;18/02/2026
+arroz;Arroz Aromatico Tio Joao 1kg Coz.Tail;R$ 16,99;16.99;Preço por Kg;16.99;Bistek;18/02/2026
+arroz;Arroz Branco Urbano 1kg Saquinho;R$ 5,29;5.29;Preço por Kg;5.29;Bistek;18/02/2026
+arroz;Arroz Integral Kiarroz 1kg C/8;R$ 4,99;4.99;Preço por Kg;4.99;Bistek;18/02/2026
+arroz;Arroz Integral Urbano 1kg 7 Graos Z/Gl;R$ 15,99;15.99;Preço por Kg;15.99;Bistek;18/02/2026
+arroz;Arroz Cateto Caldo Bom 500g Selec.Esp.;R$ 11,99;11.99;Preço por Kg;23.98;Bistek;18/02/2026
+arroz;Arroz Tio Joao 500g 7 Graos Integrais;R$ 10,99;10.99;Preço por Kg;21.98;Bistek;18/02/2026
+arroz;Arroz Parboilizado Bonitao 5kg Tp1;R$ 14,29;14.29;Preço por Kg;2.86;Bistek;18/02/2026
+arroz;Arroz Carnaroli Rampinelli 500g;R$ 16,99;16.99;Preço por Kg;33.98;Bistek;18/02/2026
+arroz;Arroz Sasanishiki Tio Joao 1kg Coz.Japon;R$ 19,99;19.99;Preço por Kg;19.99;Bistek;18/02/2026
+arroz;Arroz Integral Caldo Bom 400g Mix Graos;R$ 8,49;8.49;Preço por Kg;21.22;Bistek;18/02/2026
+arroz;Macarrao Arroz Urbano 500g Kids C/Espin;R$ 6,49;6.49;Preço por Kg;12.98;Bistek;18/02/2026
+arroz;Tempero Po Knorr 50g Arroz;R$ 7,49;7.49;Preço por Kg;149.8;Bistek;18/02/2026
+arroz;Farinha Arroz Rampinelli 1kg S/Gluten;R$ 6,79;6.79;Preço por Kg;6.79;Bistek;18/02/2026
+arroz;Macarrão Arroz Karui 200g S/ Glúten;R$ 8,97;8.97;Preço por Kg;44.85;Bistek;18/02/2026
+arroz;Mini Biscoito De Arroz Integral Camil 150g S/ Glúten;R$ 9,99;9.99;Preço por Kg;66.6;Bistek;18/02/2026
+arroz;Farinha De Arroz Fazenda S/ Glúten 1kg;R$ 6,99;6.99;Preço por Kg;6.99;Bistek;18/02/2026
+arroz;Bebida À Base De Arroz A Tal Da Castanha Completo Caixa 1l;R$ 22,99;22.99;Preço por Litro;22.99;Bistek;18/02/2026
+arroz;Snack De Arroz Original Kalassi Pacote 100g;R$ 17,99;17.99;Preço por Kg;179.9;Bistek;18/02/2026
+arroz;Macarrão Arroz Barilla 500g Espaguete S/ Glúten;R$ 10,99;10.99;Preço por Kg;21.98;Bistek;18/02/2026
+arroz;Biscoito De Arroz Com Pasta De Amendoim Natural Life 40g Sem Glúten;R$ 9,49;9.49;Preço por Kg;237.25;Bistek;18/02/2026
+arroz;Macarrao Arroz Barilla 500g Penne S/Glut;R$ 9,99;9.99;Preço por Kg;19.98;Bistek;18/02/2026
+arroz;Macarrão De Arroz E Milho Fusilli Barilla Pacote 500g;R$ 9,49;9.49;Preço por Kg;18.98;Bistek;18/02/2026
+arroz;Biscoito De Arroz Integral Grande Natural Life 80g Sem Glúten;R$ 7,99;7.99;Preço por Kg;99.88;Bistek;18/02/2026
+arroz;Biscoito de Arroz Rice Cracker Barbecue 100g;R$ 13,99;13.99;Preço por Kg;139.9;Bistek;18/02/2026
+feijão;Feijão Preto Caldão 1kg;R$ 4,79;4.79;Preço por Kg;4.79;Bistek;18/02/2026
+feijão;Feijão Vermelho 1kg Caldão;R$ 12,49;12.49;Preço por Kg;12.49;Bistek;18/02/2026
+feijão;Feijão Carioca Caldão 1kg;R$ 7,99;7.99;Preço por Kg;7.99;Bistek;18/02/2026
+feijão;Feijão Preto Vapza 500g Temperado;R$ 17,99;17.99;Preço por Kg;35.98;Bistek;18/02/2026
+feijão;Broto De Feijão Oriental Brasil 250g;R$ 4,99;4.99;Preço por Kg;19.96;Bistek;18/02/2026
+feijão;Tempero Feijão, Ovo E Arroz Maggi 50g;R$ 4,49;4.49;Preço por Kg;89.8;Bistek;18/02/2026
+feijão;Tempero Ajinomoto Sazón 60g Feijão;R$ 6,49;6.49;Preço por Kg;108.17;Bistek;18/02/2026
+feijão;Caldo Proteico Feijão Mexidona 30g;R$ 9,49;9.49;Preço por Kg;316.33;Bistek;18/02/2026
+feijão;Feijao Carioca Caldo Bom 1kg;R$ 8,99;8.99;Preço por Kg;8.99;Bistek;18/02/2026
+feijão;Feijao Preto Bom Partido 1kg;R$ 3,99;3.99;Preço por Kg;3.99;Bistek;18/02/2026
+feijão;Feijao Carioca Urbano 1kg;R$ 8,79;8.79;Preço por Kg;8.79;Bistek;18/02/2026
+feijão;Feijao Preto Rico Caldo 1kg;R$ 4,79;4.79;Preço por Kg;4.79;Bistek;18/02/2026
+feijão;Tempero Kitano 60g Mais Sabor Feijao;R$ 4,39;4.39;Preço por Kg;73.17;Bistek;18/02/2026
+feijão;Feijao Branco Caldo Bom 500g;R$ 9,99;9.99;Preço por Kg;19.98;Bistek;18/02/2026
+feijão;Feijao Vermelho Rico Caldo 1kg;R$ 12,99;12.99;Preço por Kg;12.99;Bistek;18/02/2026
+feijão;Feijao Branco Fonte Nova 500g;R$ 12,99;12.99;Preço por Kg;25.98;Bistek;18/02/2026
+feijão;Papel Higiênico Folha Tripla Neutro Neve 20m Pacote Leve 16 Pague 15 Unidades;R$ 31,97;31.97;Preço por Unidade;2.13;Bistek;18/02/2026
+feijão;Sobrecoxa De Frango Sadia Bandeja 1kg;R$ 14,97;14.97;Preço por Kg;14.97;Bistek;18/02/2026
+feijão;Queijo Parmesão Ralado Vigor Pacote 50g;R$ 6,17;6.17;Preço por Kg;123.4;Bistek;18/02/2026
+feijão;Presunto Cozido Sadia Soltíssimo Fatiado 200g;R$ 10,97;10.97;Preço por Kg;54.85;Bistek;18/02/2026
+feijão;Batata Congelada Mccain Airfryer 600g;R$ 19,97;19.97;Preço por Kg;33.28;Bistek;18/02/2026
+feijão;Leite Uht Semidesnatado Zero Lactose Tirol 1l;R$ 3,97;3.97;Preço por Litro;3.97;Bistek;18/02/2026
+feijão;Cebola 600g Aprox. 4 Unid.;R$ 1,79;1.79;Preço por Kg;2.98;Bistek;18/02/2026
+leite;Leite Fermentado Chamyto 450g;R$ 7,49;7.49;Preço por Kg;16.64;Fort Atacadista;18/02/2026
+leite;Leite Fermentado Frutap Morango 850g;R$ 9,99;9.99;Preço por Kg;11.75;Fort Atacadista;18/02/2026
+leite;Leite em Pó Molico Desnatado Lata 280g;R$ 24,98;24.98;Preço por Kg;89.21;Fort Atacadista;18/02/2026
+leite;Leite Fermentado Tirol Desnatado Baunilha 830g;R$ 9,48;9.48;Preço por Kg;11.42;Fort Atacadista;18/02/2026
+leite;Leite Condensado Tirol Tetra Pack 395g;R$ 4,79;4.79;Preço por Kg;12.13;Fort Atacadista;18/02/2026
+leite;Leite Fermentado Yakult 480ml Com 6 Unidades;R$ 11,99;11.99;Preço por Litro;24.98;Fort Atacadista;18/02/2026
+leite;Leite Fermentado Frutap Baunilha 90g;R$ 2,89;2.89;Preço por Kg;32.11;Fort Atacadista;18/02/2026
+leite;Leite Fermentado Elegê Bob Esponja Tradicional 480g Com 6 Unidades;R$ 6,98;6.98;Preço por Kg;14.54;Fort Atacadista;18/02/2026
+leite;Leite Fermentado Elegê Bob Esponja Morango 480g Com 6 Unidades;R$ 6,98;6.98;Preço por Kg;14.54;Fort Atacadista;18/02/2026
+leite;Leite Fermentado Desnatado Uva Batavo Batavinho 80g;R$ 5,98;5.98;Preço por Kg;74.75;Fort Atacadista;18/02/2026
+leite;Leite Fermentado Desnatado Laranja Shrek Batavo Batavinho 80g;R$ 5,98;5.98;Preço por Kg;74.75;Fort Atacadista;18/02/2026
+leite;Leite Fermentado Elegê Desnatado Família 1,15kg;R$ 10,98;10.98;Preço por Kg;9.55;Fort Atacadista;18/02/2026
+leite;Leite Condensado Italac Semidesnatado 395g;R$ 4,89;4.89;Preço por Kg;12.38;Fort Atacadista;18/02/2026
+leite;Leite Fermentado Frimesa Desnatado 850g;R$ 8,98;8.98;Preço por Kg;10.56;Fort Atacadista;18/02/2026
+leite;Leite em Pó Ninho Integral Instantâneo Lata 380g;R$ 25,98;25.98;Preço por Kg;68.37;Fort Atacadista;18/02/2026
+leite;Leite Fermentado Vigor Meu Malvado Favorito 450g Com 6 Unidades;R$ 5,58;5.58;Preço por Kg;12.4;Fort Atacadista;18/02/2026
+leite;Leite Fermentado Elegê Bob Esponja Uva 480g Com 6 Unidades;R$ 6,98;6.98;Preço por Kg;14.54;Fort Atacadista;18/02/2026
+leite;Leite Fermentado Desnatado Morango Batavo Batavinho 80g;R$ 5,98;5.98;Preço por Kg;74.75;Fort Atacadista;18/02/2026
+leite;Leite Fermentado Frutap Baunilha Patati Patatá 450g;R$ 5,48;5.48;Preço por Kg;12.18;Fort Atacadista;18/02/2026
+leite;Leite Fermentado Carolina 1250g;R$ 8,98;8.98;Preço por Kg;7.18;Fort Atacadista;18/02/2026
+leite;Leite Fermentado Frutap 1,2kg;R$ 12,99;12.99;Preço por Kg;10.83;Fort Atacadista;18/02/2026
+leite;Leite Fermentado Vigor Minions 800g Tamanho Família;R$ 7,98;7.98;Preço por Kg;9.97;Fort Atacadista;18/02/2026
+leite;Leite em Pó Elegê Desnatado Lata 300g;R$ 14,99;14.99;Preço por Kg;49.97;Fort Atacadista;18/02/2026
+leite;Leite em Pó Nestlé Ninho Instantâneo Integral Lata 380g 10% Grátis;R$ 23,38;23.38;Preço por Kg;61.53;Fort Atacadista;18/02/2026
+leite;Leite em Pó Ninho Adulto Lata 350g;R$ 26,99;26.99;Preço por Kg;77.11;Fort Atacadista;18/02/2026
+leite;Leite Condensado Moça 395g;R$ 10,98;10.98;Preço por Kg;27.8;Fort Atacadista;18/02/2026
+leite;Leite Tirol Integral 1 Litro;R$ 3,98;3.98;Preço por Litro;3.98;Fort Atacadista;18/02/2026
+leite;LEITE PO FINISSIMA 300G DESNATADO;R$ 10,98;10.98;Preço por Kg;36.6;Fort Atacadista;18/02/2026
+leite;Leite Ninho Forti+ Integral 1 Litro;R$ 4,98;4.98;Preço por Litro;4.98;Fort Atacadista;18/02/2026
+leite;Leite em Pó Italac Integral Instantâneo Sachê 400g;R$ 13,98;13.98;Preço por Kg;34.95;Fort Atacadista;18/02/2026
+leite;Leite Italac Uht Semidesnatado 1 Litro;R$ 3,88;3.88;Preço por Litro;3.88;Fort Atacadista;18/02/2026
+leite;Leite Condensado Moça Nestlé Semidesnatado 395g;R$ 7,98;7.98;Preço por Kg;20.2;Fort Atacadista;18/02/2026
+leite;Leite Condensado Semidesnatado Piracanjuba 395g;R$ 5,69;5.69;Preço por Kg;14.41;Fort Atacadista;18/02/2026
+leite;Leite UHT Semidesnatado Zero Lactose Tirol Biociclos + Proteína 1L;R$ 11,98;11.98;Preço por Litro;11.98;Fort Atacadista;18/02/2026
+leite;Leite em Pó Tirol Instantâneo Integral 400g;R$ 14,98;14.98;Preço por Kg;37.45;Fort Atacadista;18/02/2026
+leite;Chocolate Kinder Ovo com Surpresa Azul 40g Com 2 Unidades;R$ 21,90;21.9;Preço por Kg;547.5;Fort Atacadista;18/02/2026
+leite;Leite em Pó Integral Instantâneo Piracanjuba 380g;R$ 16,98;16.98;Preço por Kg;44.68;Fort Atacadista;18/02/2026
+leite;Bombom Lacta Favoritos 250,6g;R$ 17,98;17.98;Preço por Kg;71.75;Fort Atacadista;18/02/2026
+leite;Leite em Pó Piracanjuba Integral 1kg;R$ 44,95;44.95;Preço por Kg;44.95;Fort Atacadista;18/02/2026
+leite;Leite em Pó Ninho Integral Lata 380g;R$ 25,98;25.98;Preço por Kg;68.37;Fort Atacadista;18/02/2026
+leite;Leite em Pó Piracanjuba Integral Sachê 400g;R$ 17,18;17.18;Preço por Kg;42.95;Fort Atacadista;18/02/2026
+leite;Leite em Pó Integral Italac 1kg;R$ 40,90;40.9;Preço por Kg;40.9;Fort Atacadista;18/02/2026
+leite;Leite em Pó La Serenissima Desnatado 300g;R$ 14,29;14.29;Preço por Kg;47.63;Fort Atacadista;18/02/2026
+leite;Leite Tirol Zero Lactose Integral 1L;R$ 3,75;3.75;Preço por Litro;3.75;Fort Atacadista;18/02/2026
+leite;Leite em Pó Italac Instantâneo Integral Lata 400g;R$ 16,98;16.98;Preço por Kg;42.45;Fort Atacadista;18/02/2026
+leite;Leite em Pó Integral Piracanjuba 380g;R$ 16,98;16.98;Preço por Kg;44.68;Fort Atacadista;18/02/2026
+leite;Leite em Pó Nestlé Ninho Forti+ Integral Lata 380g 10% de Grátis;R$ 23,38;23.38;Preço por Kg;61.53;Fort Atacadista;18/02/2026
+leite;Leite Condensado Integral Moça Caixa 2,37kg - 6 Unidades Leve Mais Pague Menos;R$ 54,66;54.66;Preço por Kg;23.06;Fort Atacadista;18/02/2026
+leite;Chocolate Garoto ao Leite 80g;R$ 6,98;6.98;Preço por Kg;87.25;Fort Atacadista;18/02/2026
+leite;Bombom Nestlé Especialidades 251g;R$ 18,98;18.98;Preço por Kg;75.62;Fort Atacadista;18/02/2026
+leite;Chocolate Nestlé KitKat ao Leite 41,5g;R$ 4,99;4.99;Preço por Kg;120.24;Fort Atacadista;18/02/2026
+leite;Chocolate ao Leite Garoto 80g Grátis 20%;R$ 5,58;5.58;Preço por Kg;69.75;Fort Atacadista;18/02/2026
+leite;Leite Molico Baixa Lactose 1 Litro;R$ 4,98;4.98;Preço por Litro;4.98;Fort Atacadista;18/02/2026
+leite;Leite Italac Uht Integral 1 Litro;R$ 3,88;3.88;Preço por Litro;3.88;Fort Atacadista;18/02/2026
+leite;Bombom Neugebauer Amor Carioca 200g;R$ 11,99;11.99;Preço por Kg;59.95;Fort Atacadista;18/02/2026
+leite;Leite Pasteurizado Fazenda Trevisan Tipo A Integral 1L;R$ 8,98;8.98;Preço por Litro;8.98;Fort Atacadista;18/02/2026
+leite;Leite Tirol Zero Lactose Semidesnatado 1 Litro;R$ 5,49;5.49;Preço por Litro;5.49;Fort Atacadista;18/02/2026
+leite;Leite Italac Zero Lactose Semidesnatado 1 Litro;R$ 3,98;3.98;Preço por Litro;3.98;Fort Atacadista;18/02/2026
+leite;Leite Ninho Levinho Zero Lactose Semidesnatado 1 Litro;R$ 5,29;5.29;Preço por Litro;5.29;Fort Atacadista;18/02/2026
+leite;Leite Pasteurizado Holandês Tipo C 1 Litro;R$ 5,98;5.98;Preço por Litro;5.98;Fort Atacadista;18/02/2026
+leite;Leite Ninho Fort+ Zero Lactose Integral 1 Litro;R$ 5,49;5.49;Preço por Litro;5.49;Fort Atacadista;18/02/2026
+leite;Chocolate Lacta ao Leite Com Recheio de Oreo 90g;R$ 7,98;7.98;Preço por Kg;88.67;Fort Atacadista;18/02/2026
+leite;Chocolate Lacta ao Leite 80g;R$ 7,98;7.98;Preço por Kg;99.75;Fort Atacadista;18/02/2026
+leite;Leite Ninho Levinho Forti+ Semidesnatado 1 Litro;R$ 4,98;4.98;Preço por Litro;4.98;Fort Atacadista;18/02/2026
+leite;Leite Condensado Nestlé Moça Caixa Edição Especial 395g;R$ 5,79;5.79;Preço por Kg;14.66;Fort Atacadista;18/02/2026
+leite;Chocolate em Barra Milka ao Leite Hazelnut 90g;R$ 14,98;14.98;Preço por Kg;166.44;Fort Atacadista;18/02/2026
+leite;Leite Condensado Italac Integral 395g;R$ 7,58;7.58;Preço por Kg;19.19;Fort Atacadista;18/02/2026
+leite;Leite Piracanjuba Zero Lactose Semidesnatado 1 Litro;R$ 4,39;4.39;Preço por Litro;4.39;Fort Atacadista;18/02/2026
+leite;Leite Pasteurizado Fazenda Trevisan Tipo A Semidesnatado 1L;R$ 9,49;9.49;Preço por Litro;9.49;Fort Atacadista;18/02/2026
+leite;Leite Tirol Integral Tampa Rosca 1 Litro;R$ 3,88;3.88;Preço por Litro;3.88;Fort Atacadista;18/02/2026
+leite;Chocolate Milka Mmmax Choco Swing Cookies 300g;R$ 45,90;45.9;Preço por Kg;153.0;Fort Atacadista;18/02/2026
+leite;Leite Parmalat Zymil Zero Lactose Semidesnatado 1 Litro;R$ 3,98;3.98;Preço por Litro;3.98;Fort Atacadista;18/02/2026
+leite;Chocolate Neugebauer ao Leite 80g;R$ 6,78;6.78;Preço por Kg;84.75;Fort Atacadista;18/02/2026
+leite;Leite Condensado Italac Semidesnatado Bag 2,5kg;R$ 35,90;35.9;Preço por Kg;14.36;Fort Atacadista;18/02/2026
+leite;Leite Italac Uht Desnatado 1 Litro;R$ 3,88;3.88;Preço por Litro;3.88;Fort Atacadista;18/02/2026
+leite;Chocolate Lacta Duo Laka Diamante Negro Branco e ao Leite 80g;R$ 7,98;7.98;Preço por Kg;99.75;Fort Atacadista;18/02/2026
+leite;Chocolate Bibs ao Leite 40g;R$ 3,45;3.45;Preço por Kg;86.25;Fort Atacadista;18/02/2026
+leite;Chocolate Garoto Talento Avelã 25g;R$ 2,49;2.49;Preço por Kg;99.6;Fort Atacadista;18/02/2026
+leite;Chocolate Kinder Recheado ao Leite 12,5g;R$ 3,29;3.29;Preço por Kg;263.2;Fort Atacadista;18/02/2026
+leite;Leite Condensado Italac Zero Lactose Tetra Pak 395g;R$ 6,99;6.99;Preço por Kg;17.7;Fort Atacadista;18/02/2026
+leite;Leite Condensado Integral Moça Lata 395g;R$ 9,33;9.33;Preço por Kg;23.62;Fort Atacadista;18/02/2026
+leite;Leite Condensado Piracanjuba Light 395g;R$ 7,99;7.99;Preço por Kg;20.23;Fort Atacadista;18/02/2026
+leite;Chocolate Nestlé Chokito 32g;R$ 2,19;2.19;Preço por Kg;68.44;Fort Atacadista;18/02/2026
+leite;Chocolate Neugebauer 1891 Supreme Ao Leite 90g;R$ 12,98;12.98;Preço por Kg;144.22;Fort Atacadista;18/02/2026
+leite;Leite de Coco Mais Coco Vidro 200ml;R$ 5,49;5.49;Preço por Litro;27.45;Fort Atacadista;18/02/2026
+leite;Chocolate Kinder Recheado ao Leite 75g Com 6 Unidades;R$ 16,98;16.98;Preço por Kg;226.4;Fort Atacadista;18/02/2026
+leite;Chocolate Lacta Bis Xtra ao Leite 45g;R$ 4,49;4.49;Preço por Kg;99.78;Fort Atacadista;18/02/2026
+leite;Confeito Neugebauer Bibs Ao Leite 120g;R$ 9,29;9.29;Preço por Kg;77.42;Fort Atacadista;18/02/2026
+leite;Bombom Ferrero Rocher 150g Com 12 Bombons;R$ 50,90;50.9;Preço por Kg;339.33;Fort Atacadista;18/02/2026
+leite;Chocolate Lacta Bis Ao Leite 100,8g;R$ 6,49;6.49;Preço por Kg;64.38;Fort Atacadista;18/02/2026
+leite;Chocolate Divine Ao Leite com Amêndoas 70g;R$ 6,49;6.49;Preço por Kg;92.71;Fort Atacadista;18/02/2026
+leite;Chocolate Divine Ao Leite 70g;R$ 6,49;6.49;Preço por Kg;92.71;Fort Atacadista;18/02/2026
+leite;Chocolate Milka Caramelo ao Leite 100g;R$ 14,98;14.98;Preço por Kg;149.8;Fort Atacadista;18/02/2026
+leite;Chocolate Nestlé Classic ao Leite com Amendoim 150g;R$ 11,98;11.98;Preço por Kg;79.87;Fort Atacadista;18/02/2026
+leite;Chocolate Nestlé Classic ao Leite 80g;R$ 7,98;7.98;Preço por Kg;99.75;Fort Atacadista;18/02/2026
+leite;Chocolate Nugali ao Leite 45% Cacau Tablete 100g;R$ 23,90;23.9;Preço por Kg;239.0;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Chocolate Branco Bis Lacta 234g;R$ 51,90;51.9;Preço por Kg;221.79;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Lacta Sonho de Valsa 357g;R$ 72,90;72.9;Preço por Kg;204.2;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Lacta Sonho de Valsa 277g;R$ 51,90;51.9;Preço por Kg;187.36;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Divine Ao Leite 190g;R$ 49,90;49.9;Preço por Kg;262.63;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Lacta ao Leite Favoritos 540g;R$ 113,90;113.9;Preço por Kg;210.93;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Divine Mesclado Chocolate Ao Leite e Branco 100g;R$ 29,90;29.9;Preço por Kg;299.0;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Lindt Lindor Caixa 132,5g;R$ 115,90;115.9;Preço por Kg;874.72;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Ferrero Rocher Dark Caixa 137,5g;R$ 69,90;69.9;Preço por Kg;508.36;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Ferrero Rocher 225g;R$ 114,90;114.9;Preço por Kg;510.67;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Kinder Ovo Natoons 150g;R$ 104,90;104.9;Preço por Kg;699.33;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Kinder Minions 100g;R$ 84,90;84.9;Preço por Kg;849.0;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Lacta Laka e Diamante Negro 494g;R$ 113,90;113.9;Preço por Kg;230.57;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Divine Chocolate Branco Com Cookies 215g;R$ 54,90;54.9;Preço por Kg;255.35;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Kinder Ovo Aventura Sanava 150g;R$ 104,90;104.9;Preço por Kg;699.33;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Ferrero Rocher Collection 354g;R$ 137,90;137.9;Preço por Kg;389.55;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Ferrero Rocher 137,5g;R$ 69,90;69.9;Preço por Kg;508.36;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa ao Leite Lacta Oreo 239g;R$ 51,90;51.9;Preço por Kg;217.15;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Lacta Tripla Camada Oreo 320g;R$ 94,90;94.9;Preço por Kg;296.56;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Lacta Tripla Camada Avelã 320g;R$ 94,90;94.9;Preço por Kg;296.56;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Ferrero Rocher 365g;R$ 137,90;137.9;Preço por Kg;377.81;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Kinder Ovo Lei Oceano Encantado 150g;R$ 104,90;104.9;Preço por Kg;699.33;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Garoto Negresco 240g;R$ 57,90;57.9;Preço por Kg;241.25;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Garoto Serenata de Amor 217,7g;R$ 57,90;57.9;Preço por Kg;265.96;Fort Atacadista;18/02/2026
+ovo;Ovo Páscoa Lacta Laka 162g;R$ 49,90;49.9;Preço por Kg;308.02;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Lacta Diamante Negro 300g;R$ 72,90;72.9;Preço por Kg;243.0;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Lacta N.20 Bis 305,4g;R$ 72,90;72.9;Preço por Kg;238.7;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Nestlé Surpresa Dino Eggd 204g;R$ 66,90;66.9;Preço por Kg;327.94;Fort Atacadista;18/02/2026
+ovo;Ovo Páscoa Lacta Ao Leite 157g;R$ 49,90;49.9;Preço por Kg;317.83;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Divine Ao Leite Divikrek 215g;R$ 54,90;54.9;Preço por Kg;255.35;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Lacta ao Leite Barbie 166g;R$ 84,90;84.9;Preço por Kg;511.45;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Divine Mesclado Chocolate Ao Leite e Branco 190g;R$ 49,90;49.9;Preço por Kg;262.63;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Lindt ao Leite com Coelhos de Chocolate Caixa 125g;R$ 115,90;115.9;Preço por Kg;927.2;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Lacta Hotwheels 166g;R$ 84,90;84.9;Preço por Kg;511.45;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Divine Meio Amargo 190g;R$ 49,90;49.9;Preço por Kg;262.63;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Garoto Talento Avelã 350g;R$ 79,90;79.9;Preço por Kg;228.29;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Divine Meio Amargo Zero Açúcar 100g;R$ 62,90;62.9;Preço por Kg;629.0;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Divine Ao Leite 100g;R$ 29,90;29.9;Preço por Kg;299.0;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Divine Ao Leite Com Cookies 215g;R$ 54,90;54.9;Preço por Kg;255.35;Fort Atacadista;18/02/2026
+ovo;Ovo de Pascoa Lacta Trakinas com Jogo da Memória 190g;R$ 64,90;64.9;Preço por Kg;341.58;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Lacta Ouro Branco 359g;R$ 74,90;74.9;Preço por Kg;208.64;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Diamante Negro 163g;R$ 49,90;49.9;Preço por Kg;306.13;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Garoto Talento Meio Amargo 350g;R$ 79,90;79.9;Preço por Kg;228.29;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Nestlé Prestígio 225g;R$ 57,90;57.9;Preço por Kg;257.33;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Garoto Crocante 227g;R$ 57,90;57.9;Preço por Kg;255.07;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Nestlé Classic ao Leite 199g;R$ 57,90;57.9;Preço por Kg;290.95;Fort Atacadista;18/02/2026
+ovo;Ovo de Páscoa Divine Ao Leite com Amendoim 215g;R$ 54,90;54.9;Preço por Kg;255.35;Fort Atacadista;18/02/2026
+ovo;Ovo Caipira Pupo Bandeja Com 20 Unidades;R$ 15,98;15.98;Preço por Unidade;0.8;Fort Atacadista;18/02/2026
+ovo;Ovos Vermelhos Carminatti com 30 Unidades Grandes;R$ 19,98;19.98;Preço por Unidade;0.67;Fort Atacadista;18/02/2026
+ovo;Ovos Sieme com 30 Unidades Brancos Bandeja;R$ 19,98;19.98;Preço por Unidade;0.67;Fort Atacadista;18/02/2026
+ovo;Ovo Vermelho Mantiqueira Happy Eggs Com 20 Unidades;R$ 15,98;15.98;Preço por Unidade;0.8;Fort Atacadista;18/02/2026
+ovo;Ovo Vermelho Mantiqueira Grande Com 30 Unidades;R$ 19,98;19.98;Preço por Unidade;0.67;Fort Atacadista;18/02/2026
+ovo;Ovos Vermelhos Mantiqueira Jumbo com 10 Unidades Polpa;R$ 7,98;7.98;Preço por Unidade;0.8;Fort Atacadista;18/02/2026
+ovo;Ovo de Codorna Toscana em Conserva 300g;R$ 14,29;14.29;Preço por Kg;47.63;Fort Atacadista;18/02/2026
+ovo;Ovos Vermelhos Carminatti com 12 Unidades Extra;R$ 8,78;8.78;Preço por Unidade;0.73;Fort Atacadista;18/02/2026
+ovo;Ovos Caipira Free Lar com 20 Unidades Plastificado;R$ 15,98;15.98;Preço por Unidade;0.8;Fort Atacadista;18/02/2026
+ovo;Ovos Vermelhos Mantiqueira Happy Eggys com 10 Unidades;R$ 8,98;8.98;Preço por Unidade;0.9;Fort Atacadista;18/02/2026
+ovo;Ovo Vermelho Free Lar Caipira | Com 10 Unidades;R$ 10,98;10.98;Preço por Unidade;1.1;Fort Atacadista;18/02/2026
+ovo;Ovo Vermelho Free Lar Jumbo | Com 10 Unidades;R$ 10,98;10.98;Preço por Unidade;1.1;Fort Atacadista;18/02/2026
+ovo;Ovo de Codorna em Conserva Toscana com Azeitona Vidro 300g;R$ 20,98;20.98;Preço por Kg;69.93;Fort Atacadista;18/02/2026
+ovo;Ovo de Codorna em Conserva Toscana 1,8kg;R$ 89,90;89.9;Preço por Kg;49.94;Fort Atacadista;18/02/2026
+ovo;Macarrão Isabela Massa com Ovos Pena 500g;R$ 4,25;4.25;Preço por Kg;8.5;Fort Atacadista;18/02/2026
+ovo;Macarrao Orquidea com ovos parafuso 500g;R$ 3,39;3.39;Preço por Kg;6.78;Fort Atacadista;18/02/2026
+ovo;Lasanha Dona Benta com Ovos 500g;R$ 7,99;7.99;Preço por Kg;15.98;Fort Atacadista;18/02/2026
+ovo;Macarrão Barilla Massa com Ovos Espaguete 8 500g;R$ 4,99;4.99;Preço por Kg;9.98;Fort Atacadista;18/02/2026
+ovo;Macarrão Isabela Massa com Ovos Nhoque 500g;R$ 3,98;3.98;Preço por Kg;7.96;Fort Atacadista;18/02/2026
+ovo;Macarrão Isabela Massa com Ovos Parafuso 500g;R$ 3,98;3.98;Preço por Kg;7.96;Fort Atacadista;18/02/2026
+ovo;Macarrão Barilla Massa com Ovos Parafuso 500g;R$ 4,79;4.79;Preço por Kg;9.58;Fort Atacadista;18/02/2026
+ovo;Macarrão Casaredo Massa com Ovos Tipo Caseira 500g;R$ 6,49;6.49;Preço por Kg;12.98;Fort Atacadista;18/02/2026
+ovo;Macarrão Todeschini Penne com Ovos 500g;R$ 3,69;3.69;Preço por Kg;7.38;Fort Atacadista;18/02/2026
+ovo;Lasanha Renata Massa de Sêmola com Ovos Caixa 500g;R$ 9,78;9.78;Preço por Kg;19.56;Fort Atacadista;18/02/2026
+ovo;Macarrão Isabela Massa com Ovos Espaguete 500g;R$ 3,98;3.98;Preço por Kg;7.96;Fort Atacadista;18/02/2026
+ovo;Macarrão Barilla Massa com Ovos Penne Rigate 500g;R$ 4,79;4.79;Preço por Kg;9.58;Fort Atacadista;18/02/2026
+ovo;Macarrão Isabela Massa com Ovos Linguine Espaguete 500g;R$ 3,98;3.98;Preço por Kg;7.96;Fort Atacadista;18/02/2026
+ovo;Macarrão DItalia Massa Caseira com Ovos Pappardelle 2kg;R$ 26,90;26.9;Preço por Kg;13.45;Fort Atacadista;18/02/2026
+ovo;Macarrão Casa Germani Massa com Ovos Talharim Largo 500g;R$ 5,95;5.95;Preço por Kg;11.9;Fort Atacadista;18/02/2026
+ovo;Macarrão DItalia Massa Caseira com Ovos Talharim 500g;R$ 8,05;8.05;Preço por Kg;16.1;Fort Atacadista;18/02/2026
+ovo;Macarrão DItalia Massa Caseira com Ovos Fettuccine 500g;R$ 7,29;7.29;Preço por Kg;14.58;Fort Atacadista;18/02/2026
+ovo;Macarrão DItalia Massa Caseira com Ovos Espaguete 500g;R$ 7,29;7.29;Preço por Kg;14.58;Fort Atacadista;18/02/2026
+ovo;Macarrão DItália Massa Caseira com Ovos Fettuccine 2kg;R$ 26,90;26.9;Preço por Kg;13.45;Fort Atacadista;18/02/2026
+ovo;Macarrão DItalia Massa Caseira com Ovos Talharim 2kg;R$ 26,90;26.9;Preço por Kg;13.45;Fort Atacadista;18/02/2026
+ovo;Macarrão DItalia Massa Caseira com Ovos Talharim 1kg;R$ 14,29;14.29;Preço por Kg;14.29;Fort Atacadista;18/02/2026
+ovo;Macarrão DItália Massa Caseira com Ovos Fettuccine 1kg;R$ 14,29;14.29;Preço por Kg;14.29;Fort Atacadista;18/02/2026
+ovo;Macarrão DItália Massa Caseira com Ovos Espaguete 2kg;R$ 26,90;26.9;Preço por Kg;13.45;Fort Atacadista;18/02/2026
+ovo;Macarrão DItália Massa Caseira com Ovos Espaguete 1kg;R$ 14,29;14.29;Preço por Kg;14.29;Fort Atacadista;18/02/2026
+ovo;Macarrão Orquídea Massa de Sêmola com Ovos Pene 500g;R$ 3,39;3.39;Preço por Kg;6.78;Fort Atacadista;18/02/2026
+ovo;Macarrão Orquídea Massa de Sêmola com Ovos Espaguete 500g;R$ 3,39;3.39;Preço por Kg;6.78;Fort Atacadista;18/02/2026
+ovo;Chocolate Kinder Ovo Rosa 40g Com 2 Unidades;R$ 21,90;21.9;Preço por Kg;547.5;Fort Atacadista;18/02/2026
+ovo;Chocolate Kinder Ovo Miraculous 20g Com 2 Unidades;R$ 21,90;21.9;Preço por Kg;1095.0;Fort Atacadista;18/02/2026
+ovo;Organizador Porta Ovos Plasútil Acrílico;R$ 27,90;27.9;1 Un/Kg/L (Padrão);27.9;Fort Atacadista;18/02/2026
+ovo;Tempero Pronto BR Spices Mix Especiarias Fit Ovos Moedor 55g;R$ 20,95;20.95;Preço por Kg;380.91;Fort Atacadista;18/02/2026
+carne;Carne Moída Bovina H10 Congelada 350g;R$ 6,95;6.95;Preço por Kg;19.86;Fort Atacadista;18/02/2026
+carne;Carne Moída Bovina Friboi Congelada 500g;R$ 14,98;14.98;Preço por Kg;29.96;Fort Atacadista;18/02/2026
+carne;Picanha Bovina São João 1,5kg;R$ 179,85;179.85;Preço por Kg;119.9;Fort Atacadista;18/02/2026
+carne;Contra Filé Bovino Friboi Peça a Vácuo Kg;R$ 59,38;59.38;1 Un/Kg/L (Padrão);59.38;Fort Atacadista;18/02/2026
+carne;Assado de Tiras Bovino Friboi Maturatta 1,4kg;R$ 69,97;69.97;Preço por Kg;49.98;Fort Atacadista;18/02/2026
+carne;Alcatra Bovina A Vácuo Resfriado;R$ 71,97;71.97;1 Un/Kg/L (Padrão);71.97;Fort Atacadista;18/02/2026
+carne;Entrecorte Bovino Maturatta;R$ 119,56;119.56;1 Un/Kg/L (Padrão);119.56;Fort Atacadista;18/02/2026
+carne;Almôndega Bovina Best Beef Resfriada 360G;R$ 18,98;18.98;Preço por Kg;52.72;Fort Atacadista;18/02/2026
+carne;Almôndega Incrível Vegana 256g;R$ 19,90;19.9;Preço por Kg;77.73;Fort Atacadista;18/02/2026
+carne;Fraldinha Bovina Friboi Peça a Vácuo;R$ 85,78;85.78;1 Un/Kg/L (Padrão);85.78;Fort Atacadista;18/02/2026
+carne;Contra Filé Bovino Friboi Maturatta T-Bone;R$ 90,87;90.87;1 Un/Kg/L (Padrão);90.87;Fort Atacadista;18/02/2026
+carne;Maminha Bovina Friboi Peça a Vácuo;R$ 85,46;85.46;1 Un/Kg/L (Padrão);85.46;Fort Atacadista;18/02/2026
+carne;Paleta Bovina Friboi Porcionada a Vácuo;R$ 53,17;53.17;1 Un/Kg/L (Padrão);53.17;Fort Atacadista;18/02/2026
+carne;Acém Bovino Friboi Porcionado a Vácuo Kg;R$ 38,68;38.68;1 Un/Kg/L (Padrão);38.68;Fort Atacadista;18/02/2026
+carne;Peito Bovino Tio Jack 200g Defumado e Desfiado Congelado;R$ 32,90;32.9;Preço por Kg;164.5;Fort Atacadista;18/02/2026
+carne;Ração para Cães Purina Alpo Filhotes Carne, Leite e Cereais 10,1kg;R$ 92,90;92.9;Preço por Kg;9.2;Fort Atacadista;18/02/2026
+carne;Ração para Cães Purina Bonzo Adultos Carne e Cereais 18kg;R$ 159,90;159.9;Preço por Kg;8.88;Fort Atacadista;18/02/2026
+carne;Ração para Cães Purina Alpo Adulto Carne com Vegetais 10,1kg;R$ 92,90;92.9;Preço por Kg;9.2;Fort Atacadista;18/02/2026
+carne;Ração para Cães Mandaí Dog Classic Carne 10,1kg;R$ 49,90;49.9;Preço por Kg;4.94;Fort Atacadista;18/02/2026
+carne;Ração Úmida para Cães Pedigree Raças Pequenas Carne Sachê 100g;R$ 2,59;2.59;Preço por Kg;25.9;Fort Atacadista;18/02/2026
+carne;Ração para Cães Mandaí Dog Classic Carne 25kg;R$ 169,90;169.9;Preço por Kg;6.8;Fort Atacadista;18/02/2026
+carne;Ração para Cães Mandaí Dog Junior Carne 1kg;R$ 16,90;16.9;Preço por Kg;16.9;Fort Atacadista;18/02/2026
+carne;Charque Bovino Palato em Cubos 400g;R$ 38,49;38.49;Preço por Kg;96.22;Fort Atacadista;18/02/2026
+carne;Charque (Carne Seca) Calemba Selecionados 200g;R$ 25,98;25.98;Preço por Kg;129.9;Fort Atacadista;18/02/2026
+carne;Ração para Cães Mandaí Dog Classic Carne 1kg;R$ 11,90;11.9;Preço por Kg;11.9;Fort Atacadista;18/02/2026
+carne;Ração para Cães Pedigree Filhotes Carne, Frango e Cereais 900g;R$ 19,90;19.9;Preço por Kg;22.11;Fort Atacadista;18/02/2026
+carne;Ração Úmida para Cães Pedigree Carne Lata 280g;R$ 9,90;9.9;Preço por Kg;35.36;Fort Atacadista;18/02/2026
+carne;Alimento para Cães Dog Chow Carne 100g;R$ 2,99;2.99;Preço por Kg;29.9;Fort Atacadista;18/02/2026
+carne;Ração para Cães Pedigree Filhotes Carne e Frango 2,7kg;R$ 53,90;53.9;Preço por Kg;19.96;Fort Atacadista;18/02/2026
+carne;Ração para Cães Champ Sachê Carne 85g;R$ 2,59;2.59;Preço por Kg;30.47;Fort Atacadista;18/02/2026
+carne;Ração para Cães Champ Adultos Carne e Cereal 18kg;R$ 99,90;99.9;Preço por Kg;5.55;Fort Atacadista;18/02/2026
+carne;Ração para Cães Mandaí Dog Classic Carne 10,1kg;R$ 84,90;84.9;Preço por Kg;8.41;Fort Atacadista;18/02/2026
+carne;Ração para Cães Purina Alpo Adulto Carne com Vegetais 1kg;R$ 17,90;17.9;Preço por Kg;17.9;Fort Atacadista;18/02/2026
+carne;Ração para Cães Mandaí Dog Classic Carne 3kg;R$ 35,90;35.9;Preço por Kg;11.97;Fort Atacadista;18/02/2026
+carne;Charque Bovino Calemba em Cubos 400g;R$ 39,49;39.49;Preço por Kg;98.72;Fort Atacadista;18/02/2026
+carne;Ração para Cães Mandaí Dog Porte Pequeno Carne 3kg;R$ 35,90;35.9;Preço por Kg;11.97;Fort Atacadista;18/02/2026
+carne;Carne Seca Friboi Salgada, Curada e Dessecada 500g;R$ 28,98;28.98;Preço por Kg;57.96;Fort Atacadista;18/02/2026
+carne;Ração Nestlé Purina Dog Chow Extralife Adultos Minis e Pequenos Carne, Frango e Arroz 10,1kg;R$ 119,90;119.9;Preço por Kg;11.87;Fort Atacadista;18/02/2026
+carne;Ração Úmida para Cães Pedigree Filhotes Carne e Frango Lata 280g;R$ 9,90;9.9;Preço por Kg;35.36;Fort Atacadista;18/02/2026
+carne;Ração Úmida para Cães Pedigree Filhotes Carne Sachê 100g;R$ 2,59;2.59;Preço por Kg;25.9;Fort Atacadista;18/02/2026
+carne;Ração para Cães Mandaí Dog Pequeno Porte Carne 1kg;R$ 15,90;15.9;Preço por Kg;15.9;Fort Atacadista;18/02/2026
+carne;Ração Úmida para Cães Dog Chow Adulto Carne ao Molho 100g;R$ 2,99;2.99;Preço por Kg;29.9;Fort Atacadista;18/02/2026
+carne;Ração Dog Chowpara Cães Adultos Minis e Pequenos Sabor Carne e Frango 900g;R$ 19,90;19.9;Preço por Kg;22.11;Fort Atacadista;18/02/2026
+carne;Ração Úmida para Cães Sidekick Premium Adultos Carne 280g;R$ 7,90;7.9;Preço por Kg;28.21;Fort Atacadista;18/02/2026
+carne;Ração Purina One Cães Filhotes Frango e Carne 700g;R$ 31,90;31.9;Preço por Kg;45.57;Fort Atacadista;18/02/2026
+carne;Ração Úmida para Cães Pedigree + 7 Anos Carne Sachê 100gr;R$ 2,59;2.59;1 Un/Kg/L (Padrão);2.59;Fort Atacadista;18/02/2026
+carne;Ração para Cães Pedigree Nutrição Essencial Adultos Carne 10,1kg Grátis 1,1kg;R$ 89,90;89.9;Preço por Kg;8.9;Fort Atacadista;18/02/2026
+carne;Carne Seca Friboi Traseiro 500g;R$ 34,98;34.98;Preço por Kg;69.96;Fort Atacadista;18/02/2026
+carne;Salsicha Anglo Lata 180g;R$ 4,99;4.99;Preço por Kg;27.72;Fort Atacadista;18/02/2026
+carne;Ração Dog Chow para Cães Adultos Minis Pequenos Sabor Carne e Frango 2,5kg;R$ 47,90;47.9;Preço por Kg;19.16;Fort Atacadista;18/02/2026
+carne;Charque Bovino Calemba Dianteiro 400g;R$ 40,98;40.98;Preço por Kg;102.45;Fort Atacadista;18/02/2026
+carne;Ração para Cães Pedigree Adulto +9 Nutrição Essencial Carne ao Leite 10,1kg;R$ 89,90;89.9;Preço por Kg;8.9;Fort Atacadista;18/02/2026
+carne;Ração Purina One Cães Adultos Minis e Pequenos Frango e Carne 700g;R$ 32,90;32.9;Preço por Kg;47.0;Fort Atacadista;18/02/2026
+carne;Ração para Cães Purina Dog Chow Extra Life Adultos Médios e Grandes Carne, Frango e Arroz 10,1kg;R$ 119,90;119.9;Preço por Kg;11.87;Fort Atacadista;18/02/2026
+carne;Ração para Cães Pedigree Adultos Raças Minis e Pequenas Carne e Vegetais 900g;R$ 19,90;19.9;Preço por Kg;22.11;Fort Atacadista;18/02/2026
+carne;Ração Dog Chow para Cães Adultos Médios Grandes Sabor Carne e Frango 2,5kg;R$ 51,49;51.49;Preço por Kg;20.6;Fort Atacadista;18/02/2026
+carne;Ração Dog Chow para Cães Adultos Maiores de 7 anos Extralife Sabor Carne e Frango 900g;R$ 19,90;19.9;Preço por Kg;22.11;Fort Atacadista;18/02/2026
+carne;Ração para Cães Pedigree Adultos 12 Meses a 7 Anos Carne e Vegetais 2,7kg;R$ 54,09;54.09;Preço por Kg;20.03;Fort Atacadista;18/02/2026
+carne;Ração para Cães Pedigree Adultos 12 Meses a 7 Anos Raças Minis e Pequenas Carne e Vegetais 2,7kg;R$ 53,90;53.9;Preço por Kg;19.96;Fort Atacadista;18/02/2026
+carne;Salsicha Bordon Viena 180g;R$ 5,99;5.99;Preço por Kg;33.28;Fort Atacadista;18/02/2026
+carne;Sardinha Coqueiro com Óleo Comestível 125g;R$ 5,98;5.98;Preço por Kg;47.84;Fort Atacadista;18/02/2026
+carne;Linguiça Seara Defumada Fininha 215g;R$ 7,98;7.98;Preço por Kg;37.12;Fort Atacadista;18/02/2026
+carne;Atum 88 Ralado em Óleo 140g;R$ 7,49;7.49;Preço por Kg;53.5;Fort Atacadista;18/02/2026
+carne;Sobrecoxa de Frango Sadia 1kg;R$ 10,98;10.98;Preço por Kg;10.98;Fort Atacadista;18/02/2026
+carne;Bacon Seara Defumado kg;R$ 44,90;44.9;1 Un/Kg/L (Padrão);44.9;Fort Atacadista;18/02/2026
+carne;Sardinha 88 com Molho de Tomate 125g;R$ 5,98;5.98;Preço por Kg;47.84;Fort Atacadista;18/02/2026
+carne;Sardinha Gomes da Costa em Óleo 125g;R$ 6,99;6.99;Preço por Kg;55.92;Fort Atacadista;18/02/2026
+carne;Atum 88 Ralado ao Natural 140g;R$ 7,49;7.49;Preço por Kg;53.5;Fort Atacadista;18/02/2026
+carne;Atum Gomes da Costa Sólido ao Natural 170g;R$ 12,39;12.39;Preço por Kg;72.88;Fort Atacadista;18/02/2026
+carne;Filezinho de Sassami de Frango Lar;R$ 16,18;16.18;1 Un/Kg/L (Padrão);16.18;Fort Atacadista;18/02/2026
+carne;Sardinha Coqueiro com Molho de Tomate 125g;R$ 5,98;5.98;Preço por Kg;47.84;Fort Atacadista;18/02/2026
+carne;Atum Ralado ao Molho de Tomate Gomes da Costa Lata 170g;R$ 8,99;8.99;Preço por Kg;52.88;Fort Atacadista;18/02/2026
+carne;Atum Gomes da Costa Ralado em Óleo 170g;R$ 8,99;8.99;Preço por Kg;52.88;Fort Atacadista;18/02/2026
+carne;Filé de Tilápia Copacol Pacote 800g;R$ 41,90;41.9;Preço por Kg;52.37;Fort Atacadista;18/02/2026
+carne;Atum Gomes da Costa Sólido em Óleo 170g;R$ 11,49;11.49;Preço por Kg;67.59;Fort Atacadista;18/02/2026
+carne;Atum Coqueiro Ralado ao Óleo 170g;R$ 9,99;9.99;Preço por Kg;58.76;Fort Atacadista;18/02/2026
+carne;Atum Sólido Tours 255g em Óleo Comestível;R$ 24,99;24.99;Preço por Kg;98.0;Fort Atacadista;18/02/2026
+carne;Atum 88 Sólido em Óleo 140g;R$ 9,49;9.49;Preço por Kg;67.79;Fort Atacadista;18/02/2026
+carne;Sardinha Gomes da Costa com Molho de Tomate 125g;R$ 6,39;6.39;Preço por Kg;51.12;Fort Atacadista;18/02/2026
+carne;Atum em Pedaços Tours 255g Natural;R$ 19,99;19.99;Preço por Kg;78.39;Fort Atacadista;18/02/2026
+carne;Atum Coqueiro Ralado em Molho com Tomate 160g;R$ 9,99;9.99;Preço por Kg;62.44;Fort Atacadista;18/02/2026
+carne;Atum Coqueiro Sólido em Óleo 170g;R$ 12,98;12.98;Preço por Kg;76.35;Fort Atacadista;18/02/2026
+carne;Sardinha 88 em Óleo 125g;R$ 5,98;5.98;Preço por Kg;47.84;Fort Atacadista;18/02/2026
+carne;Atum 88 Sólido ao Natural 140g;R$ 9,49;9.49;Preço por Kg;67.79;Fort Atacadista;18/02/2026
+carne;Bacon JCW Fatiado 1kg;R$ 49,98;49.98;Preço por Kg;49.98;Fort Atacadista;18/02/2026
+carne;Sardinha Ramirez com Azeite 125g;R$ 16,89;16.89;Preço por Kg;135.12;Fort Atacadista;18/02/2026
+carne;Sardinha Ramirez Natural 125g;R$ 11,89;11.89;Preço por Kg;95.12;Fort Atacadista;18/02/2026
+carne;Coxinha de Asa de Frango Sadia IQF 1kg;R$ 14,98;14.98;Preço por Kg;14.98;Fort Atacadista;18/02/2026
+carne;Atum Sólido Tours 255g em Azeite de Oliva;R$ 31,99;31.99;Preço por Kg;125.45;Fort Atacadista;18/02/2026
+carne;Atum Falani Ralado ao Natural 170g;R$ 6,15;6.15;Preço por Kg;36.18;Fort Atacadista;18/02/2026
+carne;Atum Ralado Tours 255g em Óleo;R$ 18,99;18.99;Preço por Kg;74.47;Fort Atacadista;18/02/2026
+carne;Atum Falani Ralado ao Óleo 170g;R$ 8,45;8.45;Preço por Kg;49.71;Fort Atacadista;18/02/2026
+carne;Atum Falani em Pedaços em Óleo 500g;R$ 10,90;10.9;Preço por Kg;21.8;Fort Atacadista;18/02/2026
+carne;Atum Sólido Tours 255g com Limão;R$ 24,99;24.99;Preço por Kg;98.0;Fort Atacadista;18/02/2026
+carne;Atum Sólido Tours 255g Natural;R$ 24,99;24.99;Preço por Kg;98.0;Fort Atacadista;18/02/2026
+carne;Atum Ralado Nautique Natural 170g;R$ 6,48;6.48;Preço por Kg;38.12;Fort Atacadista;18/02/2026
+arroz;Arroz Urbano 5kg Tipo 1;R$ 18,69;18.69;Preço por Kg;3.74;Fort Atacadista;18/02/2026
+arroz;Arroz Arbório Tio Urbano 1kg;R$ 25,90;25.9;Preço por Kg;25.9;Fort Atacadista;18/02/2026
+arroz;Arroz Branco Catarinão 1kg;R$ 2,79;2.79;Preço por Kg;2.79;Fort Atacadista;18/02/2026
+arroz;Arroz Branco Urbano Premium Tipo 1 1kg;R$ 4,69;4.69;Preço por Kg;4.69;Fort Atacadista;18/02/2026
+arroz;Arroz Parboilizado Catarinão 1kg;R$ 2,48;2.48;Preço por Kg;2.48;Fort Atacadista;18/02/2026
+arroz;Arroz Parboilizado Nutriforte 5kg;R$ 11,98;11.98;Preço por Kg;2.4;Fort Atacadista;18/02/2026
+arroz;Arroz Basmati Urbano 1kg;R$ 24,90;24.9;Preço por Kg;24.9;Fort Atacadista;18/02/2026
+arroz;Arroz Parboilizado Tio Urbano Tipo 1 com 1kg;R$ 3,59;3.59;Preço por Kg;3.59;Fort Atacadista;18/02/2026
+arroz;Arroz Branco Tio Urbano Tipo 1 com 1kg;R$ 3,79;3.79;Preço por Kg;3.79;Fort Atacadista;18/02/2026
+arroz;Arroz Polido Tio João Tipo 1 Com 1kg;R$ 6,98;6.98;Preço por Kg;6.98;Fort Atacadista;18/02/2026
+arroz;Arroz Parboilizado Aladin Tipo 1 1kg;R$ 2,38;2.38;Preço por Kg;2.38;Fort Atacadista;18/02/2026
+arroz;Arroz Parboilizado Tio Urbano Tipo 1kg Com 8 Saquinhos;R$ 4,58;4.58;Preço por Kg;4.58;Fort Atacadista;18/02/2026
+arroz;Arroz Integral Caldo Bom Essencial 10 Grãos 400g;R$ 9,58;9.58;Preço por Kg;23.95;Fort Atacadista;18/02/2026
+arroz;Arroz 7 Grãos Urbano 1kg Integral;R$ 16,28;16.28;Preço por Kg;16.28;Fort Atacadista;18/02/2026
+arroz;Arroz Parboilizado Zilmar 1kg;R$ 2,35;2.35;Preço por Kg;2.35;Fort Atacadista;18/02/2026
+arroz;Arroz Negro Caldo Bom Tipo 1 Seleção Especial 500g;R$ 29,90;29.9;Preço por Kg;59.8;Fort Atacadista;18/02/2026
+arroz;Arroz Integral Caldo Bom 8 Grãos e Cenoura Mix 400g;R$ 8,48;8.48;Preço por Kg;21.2;Fort Atacadista;18/02/2026
+arroz;Arroz Branco Urbano 1kg;R$ 4,98;4.98;Preço por Kg;4.98;Fort Atacadista;18/02/2026
+arroz;Arroz Arbório Realengo 1kg;R$ 17,90;17.9;Preço por Kg;17.9;Fort Atacadista;18/02/2026
+arroz;Arroz Aromático Jasmine Tio João Variedades Mundiais Cozinha Tailandesa 1kg;R$ 21,90;21.9;Preço por Kg;21.9;Fort Atacadista;18/02/2026
+arroz;Arroz Integral Urbano Saquinhos 1kg com 8 unidades;R$ 4,89;4.89;Preço por Kg;4.89;Fort Atacadista;18/02/2026
+arroz;Arroz Parboilizado Tio João Cozinha Fácil à Grega 250g;R$ 9,28;9.28;Preço por Kg;37.12;Fort Atacadista;18/02/2026
+arroz;Arroz Integral Realengo 1kg;R$ 3,29;3.29;Preço por Kg;3.29;Fort Atacadista;18/02/2026
+arroz;Arroz Preto Urbano 500g;R$ 14,89;14.89;Preço por Kg;29.78;Fort Atacadista;18/02/2026
+arroz;Arroz Integral Urbano 1kg;R$ 4,28;4.28;Preço por Kg;4.28;Fort Atacadista;18/02/2026
+arroz;Arroz 7 Grãos Urbano Zero Glúten com Lentilha e Girassol 500g;R$ 8,98;8.98;Preço por Kg;17.96;Fort Atacadista;18/02/2026
+arroz;Arroz Blue Ville Culinária Natural 1kg;R$ 10,78;10.78;Preço por Kg;10.78;Fort Atacadista;18/02/2026
+arroz;Arroz Parboilizado Soltinho 1kg;R$ 2,49;2.49;Preço por Kg;2.49;Fort Atacadista;18/02/2026
+arroz;Arroz Cateto Caldo Bom Tipo 1 Seleção Especial 500g;R$ 11,98;11.98;Preço por Kg;23.96;Fort Atacadista;18/02/2026
+arroz;Arroz Integral Urbano 7 Grãos+ Tipo 1 com 1kg;R$ 16,98;16.98;Preço por Kg;16.98;Fort Atacadista;18/02/2026
+arroz;Arroz Blue Ville Thai Jasmine 1kg;R$ 16,98;16.98;Preço por Kg;16.98;Fort Atacadista;18/02/2026
+arroz;Arroz Vermelho Urbano 500g;R$ 14,28;14.28;Preço por Kg;28.56;Fort Atacadista;18/02/2026
+arroz;Arroz Blue Ville Culinária Gaúcha Tipo 1 1kg;R$ 9,98;9.98;Preço por Kg;9.98;Fort Atacadista;18/02/2026
+arroz;Arroz Negro Integral La Pastina Tipo 1 500g;R$ 24,90;24.9;Preço por Kg;49.8;Fort Atacadista;18/02/2026
+arroz;ARROZ INTEGR.TIO JOAO 200G COZ.FAC. ARROZ VERM.TOM;R$ 9,48;9.48;Preço por Kg;47.4;Fort Atacadista;18/02/2026
+arroz;Arroz Basmati La Pastina Tipo 1 500g;R$ 32,90;32.9;Preço por Kg;65.8;Fort Atacadista;18/02/2026
+arroz;Arroz Pronto Blue Ville Multicereais 1kg;R$ 10,98;10.98;Preço por Kg;10.98;Fort Atacadista;18/02/2026
+arroz;Arroz Pronto Blue Ville com Champignon 250g;R$ 8,39;8.39;Preço por Kg;33.56;Fort Atacadista;18/02/2026
+arroz;Arroz Pronto Blue Ville com Tomate Seco 250g;R$ 6,79;6.79;Preço por Kg;27.16;Fort Atacadista;18/02/2026
+arroz;Arroz Pronto À Grega 250g;R$ 6,95;6.95;Preço por Kg;27.8;Fort Atacadista;18/02/2026
+arroz;Arroz Pronto Blue Ville com Espinafre 250g;R$ 4,29;4.29;Preço por Kg;17.16;Fort Atacadista;18/02/2026
+arroz;Arroz Pronto Blue Ville Árabe 250g;R$ 6,49;6.49;Preço por Kg;25.96;Fort Atacadista;18/02/2026
+arroz;Arroz Pronto Blue Ville com Açafrão 250g;R$ 4,29;4.29;Preço por Kg;17.16;Fort Atacadista;18/02/2026
+arroz;Arroz Pronto Blue Ville com Ervas Finas 250g;R$ 4,29;4.29;Preço por Kg;17.16;Fort Atacadista;18/02/2026
+arroz;Arroz 7 Grãos Urbano Zero Glúten com Feijão Azuki e Semente Abóbora 500g;R$ 8,98;8.98;Preço por Kg;17.96;Fort Atacadista;18/02/2026
+arroz;Arroz 7 Grãos Urbano Zero Glúten com Painço e Cateto 500g;R$ 8,98;8.98;Preço por Kg;17.96;Fort Atacadista;18/02/2026
+arroz;Arroz Branco Realengo 5kg;R$ 9,90;9.9;Preço por Kg;1.98;Fort Atacadista;18/02/2026
+arroz;Arroz Carreteiro Panelinhas Seara 300g;R$ 19,90;19.9;Preço por Kg;66.33;Fort Atacadista;18/02/2026
+arroz;Arroz Parboilizado Catarinão 5kg;R$ 12,29;12.29;Preço por Kg;2.46;Fort Atacadista;18/02/2026
+arroz;Arroz Parboilizado Buriti Tipo 1 5kg;R$ 11,79;11.79;Preço por Kg;2.36;Fort Atacadista;18/02/2026
+arroz;Arroz Realengo Para Cães 5kg;R$ 16,90;16.9;Preço por Kg;3.38;Fort Atacadista;18/02/2026
+arroz;Arroz Integral Catarinão 5kg;R$ 13,98;13.98;Preço por Kg;2.8;Fort Atacadista;18/02/2026
+arroz;Arroz Parboilizado Aladin Tipo 1 5kg;R$ 10,78;10.78;Preço por Kg;2.16;Fort Atacadista;18/02/2026
+arroz;Arroz Integral Realengo 5kg;R$ 14,98;14.98;Preço por Kg;3.0;Fort Atacadista;18/02/2026
+arroz;Arroz Branco Tio João Tipo 1 5kg;R$ 33,90;33.9;Preço por Kg;6.78;Fort Atacadista;18/02/2026
+arroz;Arroz Parboilizado Tio Urbano Tipo 1 5kg;R$ 16,90;16.9;Preço por Kg;3.38;Fort Atacadista;18/02/2026
+arroz;Arroz Branco Catarinão 5kg;R$ 16,99;16.99;Preço por Kg;3.4;Fort Atacadista;18/02/2026
+arroz;Arroz Caramelizado Karui 100g;R$ 12,49;12.49;Preço por Kg;124.9;Fort Atacadista;18/02/2026
+arroz;Arroz Japonês Caldo Bom Tipo 1 Seleção Especial 500g;R$ 9,98;9.98;Preço por Kg;19.96;Fort Atacadista;18/02/2026
+arroz;Biscoito de Arroz Camil Integral 150g;R$ 6,99;6.99;Preço por Kg;46.6;Fort Atacadista;18/02/2026
+arroz;Biscoito de Arroz Camil Integral com Chia e Linhaça 150g;R$ 6,99;6.99;Preço por Kg;46.6;Fort Atacadista;18/02/2026
+arroz;Farinha de Arroz Tio João Sem Glúten 1kg;R$ 8,29;8.29;Preço por Kg;8.29;Fort Atacadista;18/02/2026
+arroz;Snack de Arroz Kalassi Rice Crackers Barbecue 100g;R$ 15,75;15.75;Preço por Kg;157.5;Fort Atacadista;18/02/2026
+arroz;Farinha de Arroz Urbano Zero Glúten Integral 1kg;R$ 8,49;8.49;Preço por Kg;8.49;Fort Atacadista;18/02/2026
+arroz;Biscoito de Arroz Camil Pimenta 150g;R$ 6,99;6.99;Preço por Kg;46.6;Fort Atacadista;18/02/2026
+arroz;Farinha de Arroz Urbano Zero Glúten 1kg;R$ 6,98;6.98;Preço por Kg;6.98;Fort Atacadista;18/02/2026
+arroz;Cereal Infantil Arroz e Aveia Mucilon Pacote 600g Grátis 100g;R$ 23,75;23.75;Preço por Kg;39.58;Fort Atacadista;18/02/2026
+arroz;Colher de Arroz Chic Lar;R$ 18,35;18.35;1 Un/Kg/L (Padrão);18.35;Fort Atacadista;18/02/2026
+arroz;Macarrão Urbano Massa de Arroz Zero Glúten Espaguete 500g;R$ 4,69;4.69;Preço por Kg;9.38;Fort Atacadista;18/02/2026
+arroz;Macarrão Urbano Massa de Arroz Zero Glúten Integral Espaguete 500g;R$ 6,28;6.28;Preço por Kg;12.56;Fort Atacadista;18/02/2026
+arroz;Macarrão Urbano Massa de Arroz Zero Glúten Parafuso 500g;R$ 4,69;4.69;Preço por Kg;9.38;Fort Atacadista;18/02/2026
+arroz;Macarrão Urbano Massa de Arroz Zero Glúten Penne 500g;R$ 4,29;4.29;Preço por Kg;8.58;Fort Atacadista;18/02/2026
+arroz;Massa Alimentícia Urbano Zero Glúten Parafuso Arroz e Feijão 500g;R$ 6,98;6.98;Preço por Kg;13.96;Fort Atacadista;18/02/2026
+arroz;Vinagre Castelo Arroz 750ml;R$ 10,99;10.99;Preço por Litro;14.65;Fort Atacadista;18/02/2026
+arroz;Mingau Nestlé Mucilon Arroz e Aveia Sachê 600g;R$ 24,98;24.98;Preço por Kg;41.63;Fort Atacadista;18/02/2026
+arroz;Cereal Infantil Mucilon Arroz e Aveia 230g;R$ 11,89;11.89;Preço por Kg;51.7;Fort Atacadista;18/02/2026
+arroz;Mingau All Nutri Arroz Sachê 230g;R$ 5,49;5.49;Preço por Kg;23.87;Fort Atacadista;18/02/2026
+arroz;Macarrão Urbano Massa de Arroz Zero Glúten Integral Pena 500g;R$ 6,99;6.99;Preço por Kg;13.98;Fort Atacadista;18/02/2026
+arroz;Macarrão Urbano Massa de Arroz Zero Glúten Integral Parafuso 500g;R$ 6,28;6.28;Preço por Kg;12.56;Fort Atacadista;18/02/2026
+arroz;Sopão Maggi Canjão com Arroz 200g;R$ 6,98;6.98;Preço por Kg;34.9;Fort Atacadista;18/02/2026
+arroz;Lámen Instantâneo de Arroz Karui Sabor Carne 78g;R$ 3,39;3.39;Preço por Kg;43.46;Fort Atacadista;18/02/2026
+arroz;Macarrão Urbano Kids Massa de Arroz Personagens 500g;R$ 5,45;5.45;Preço por Kg;10.9;Fort Atacadista;18/02/2026
+arroz;Cereal Infantil Mucilon Arroz 230g;R$ 9,98;9.98;Preço por Kg;43.39;Fort Atacadista;18/02/2026
+arroz;Cereal Infantil Mucilon Arroz e Aveia Sachê 1kg;R$ 39,98;39.98;Preço por Kg;39.98;Fort Atacadista;18/02/2026
+arroz;Macarrão Urbano Kids Massa de Arroz Mini Rigatoni 500g;R$ 5,48;5.48;Preço por Kg;10.96;Fort Atacadista;18/02/2026
+arroz;Vinagre Karui Arroz 750ml;R$ 6,19;6.19;Preço por Litro;8.25;Fort Atacadista;18/02/2026
+arroz;Lámen Instantâneo de Arroz Karui Sabor Galinha 78g;R$ 3,39;3.39;Preço por Kg;43.46;Fort Atacadista;18/02/2026
+arroz;Macarrão Barilla 500g Penne Sem Glúten Arroz e Milho;R$ 8,05;8.05;Preço por Kg;16.1;Fort Atacadista;18/02/2026
+arroz;Sopinha Papapá Orgânica Arroz Carne e Legumes 180g;R$ 17,69;17.69;Preço por Kg;98.28;Fort Atacadista;18/02/2026
+arroz;Vinagre Almaroni Orgânico Arroz 400ml;R$ 11,99;11.99;Preço por Litro;29.97;Fort Atacadista;18/02/2026
+arroz;Sopão Apti Canjão com Arroz 180g;R$ 5,49;5.49;Preço por Kg;30.5;Fort Atacadista;18/02/2026
+arroz;Tempero em Pó Kitano Mais Sabor para Arroz Branco 60g Com 12 Sachês;R$ 3,59;3.59;Preço por Kg;59.83;Fort Atacadista;18/02/2026
+arroz;Cereal Infantil Italac Meu Papá Arroz 180g;R$ 5,59;5.59;Preço por Kg;31.06;Fort Atacadista;18/02/2026
+arroz;Tempero em Pó Sazón Arroz 60g;R$ 5,79;5.79;Preço por Kg;96.5;Fort Atacadista;18/02/2026
+feijão;Feijão Preto Caldo Carioca 1kg;R$ 3,79;3.79;Preço por Kg;3.79;Fort Atacadista;18/02/2026
+feijão;Feijão Preto Caldão 1kg;R$ 4,98;4.98;Preço por Kg;4.98;Fort Atacadista;18/02/2026
+feijão;Feijão Preto Urbano 1kg;R$ 4,98;4.98;Preço por Kg;4.98;Fort Atacadista;18/02/2026
+feijão;Feijão Carioca Urbano 1kg;R$ 7,48;7.48;Preço por Kg;7.48;Fort Atacadista;18/02/2026
+feijão;Feijão Azuki Caldão 500g;R$ 8,68;8.68;Preço por Kg;17.36;Fort Atacadista;18/02/2026
+feijão;Feijão Vermelho Caldão 1kg;R$ 12,98;12.98;Preço por Kg;12.98;Fort Atacadista;18/02/2026
+feijão;Feijão Preto Caldo Bom Cozido no Vapor 250g;R$ 9,98;9.98;Preço por Kg;39.92;Fort Atacadista;18/02/2026
+feijão;Feijão Carioca Caldão 1kg;R$ 7,28;7.28;Preço por Kg;7.28;Fort Atacadista;18/02/2026
+feijão;Feijão Vermelho Urbano 1kg;R$ 11,90;11.9;Preço por Kg;11.9;Fort Atacadista;18/02/2026
+feijão;Feijão Vermelho Caldo Carioca 1kg;R$ 9,48;9.48;Preço por Kg;9.48;Fort Atacadista;18/02/2026
+feijão;Feijão Preto Mãe Véia 1kg;R$ 4,39;4.39;Preço por Kg;4.39;Fort Atacadista;18/02/2026
+feijão;Feijão Fradinho Caldão  500g;R$ 5,98;5.98;Preço por Kg;11.96;Fort Atacadista;18/02/2026
+feijão;Feijão Branco Caldão 500g;R$ 9,98;9.98;Preço por Kg;19.96;Fort Atacadista;18/02/2026
+feijão;Feijão Branco Ponzan 500g;R$ 11,59;11.59;Preço por Kg;23.18;Fort Atacadista;18/02/2026
+feijão;Feijão Carioca Caldo Carioca 1kg;R$ 5,98;5.98;Preço por Kg;5.98;Fort Atacadista;18/02/2026
+feijão;Caldinho de Feijão com Bacon Panelinhas Seara 300g;R$ 16,98;16.98;Preço por Kg;56.6;Fort Atacadista;18/02/2026
+feijão;Tempero em Pó Sazón Feijão 60g;R$ 5,79;5.79;Preço por Kg;96.5;Fort Atacadista;18/02/2026
+feijão;Semente Feltrin de Feijão Tempesta 2g;R$ 3,99;3.99;Preço por Kg;1995.0;Fort Atacadista;18/02/2026
+feijão;Tempero em Pó Knorr Para Feijão 50g com 10 Unidades;R$ 5,99;5.99;Preço por Kg;119.8;Fort Atacadista;18/02/2026
+leite;Leite UHT Integral Tirol Caixa 1l;R$ 3,68;3.68;Preço por Litro;3.68;Giassi;18/02/2026
+leite;Leite UHT Semidesnatado Zero Lactose Tirol Premiare Caixa com Tampa 1l;R$ 4,58;4.58;Preço por Litro;4.58;Giassi;18/02/2026
+leite;Leite Condensado Semidesnatado Piracanjuba Caixa 395g;R$ 5,98;5.98;Preço por Kg;15.14;Giassi;18/02/2026
+leite;Leite UHT Integral Tirol Caixa com Tampa 1l;R$ 3,68;3.68;Preço por Litro;3.68;Giassi;18/02/2026
+leite;Leite UHT Integral Parmalat Caixa com Tampa 1l;R$ 3,68;3.68;Preço por Litro;3.68;Giassi;18/02/2026
+leite;Leite Condensado Semidesnatado Tirol Caixa 395g;R$ 5,78;5.78;Preço por Kg;14.63;Giassi;18/02/2026
+leite;Leite UHT Integral Zero Lactose Tirol Caixa com Tampa 1l;R$ 4,58;4.58;Preço por Litro;4.58;Giassi;18/02/2026
+leite;Leite UHT Semidesnatado Tirol Caixa com Tampa 1l;R$ 3,68;3.68;Preço por Litro;3.68;Giassi;18/02/2026
+leite;Leite Pó Instantâneo Integral Piracanjuba Pacote 400g;R$ 16,90;16.9;Preço por Kg;42.25;Giassi;18/02/2026
+leite;Leite UHT Desnatado Tirol Caixa com Tampa 1l;R$ 3,68;3.68;Preço por Litro;3.68;Giassi;18/02/2026
+leite;Leite Condensado Semidesnatado Moça Caixa 395g;R$ 7,78;7.78;Preço por Kg;19.7;Giassi;18/02/2026
+leite;Leite UHT Desnatado Tirol Caixa 1l;R$ 2,98;2.98;Preço por Litro;2.98;Giassi;18/02/2026
+leite;Leite UHT Semidesnatado Zero Lactose Piracanjuba Caixa com Tampa 1l;R$ 3,98;3.98;Preço por Litro;3.98;Giassi;18/02/2026
+leite;Leite Condensado Zero Lactose Tirol Caixa 395g;R$ 7,98;7.98;Preço por Kg;20.2;Giassi;18/02/2026
+leite;Leite UHT Semidesnatado Tirol Caixa 1l;R$ 3,68;3.68;Preço por Litro;3.68;Giassi;18/02/2026
+leite;Leite Condensado Integral Moça Lata 395g;R$ 11,68;11.68;Preço por Kg;29.57;Giassi;18/02/2026
+leite;Leite UHT Integral Piracanjuba Caixa com Tampa 1l;R$ 3,78;3.78;Preço por Litro;3.78;Giassi;18/02/2026
+leite;Leite UHT Integral Colônia Holandesa Naturalle Caixa com Tampa 1l;R$ 5,48;5.48;Preço por Litro;5.48;Giassi;18/02/2026
+leite;Leite Pó Instantâneo Integral Ninho Lata 380g;R$ 21,78;21.78;Preço por Kg;57.32;Giassi;18/02/2026
+leite;Leite de Coco RTC Coco do Vale Vidro 200ml;R$ 3,98;3.98;Preço por Litro;19.9;Giassi;18/02/2026
+leite;Leite Pó Integral Ninho Integral Forti+ Lata 380g;R$ 21,78;21.78;Preço por Kg;57.32;Giassi;18/02/2026
+leite;Leite UHT Semidesnatado Parmalat Caixa com Tampa 1l;R$ 3,68;3.68;Preço por Litro;3.68;Giassi;18/02/2026
+leite;Leite UHT Integral Aurora Caixa com Tampa 1l;R$ 3,88;3.88;Preço por Litro;3.88;Giassi;18/02/2026
+leite;Leite Pasteurizado Homogeneizado Tipo A Integral Fazenda Trevisan Garrafa 1l;R$ 9,58;9.58;Preço por Litro;9.58;Giassi;18/02/2026
+leite;Leite Pó Instantâneo Desnatado Piracanjuba Pacote 400g;R$ 19,38;19.38;Preço por Kg;48.45;Giassi;18/02/2026
+leite;Leite UHT Semidesnatado Zero Lactose Parmalat Zymil Caixa com Tampa 1l;R$ 4,38;4.38;Preço por Litro;4.38;Giassi;18/02/2026
+leite;Leite UHT Desnatado Parmalat Caixa com Tampa 1l;R$ 3,68;3.68;Preço por Litro;3.68;Giassi;18/02/2026
+leite;Leite de Coco Tradicional Sococo Vidro 200ml;R$ 6,98;6.98;Preço por Litro;34.9;Giassi;18/02/2026
+leite;Leite UHT Desnatado Zero Lactose Parmalat Zymil Caixa com Tampa 1l;R$ 4,38;4.38;Preço por Litro;4.38;Giassi;18/02/2026
+leite;Leite UHT Integral Ninho Caixa 1l;R$ 5,78;5.78;Preço por Litro;5.78;Giassi;18/02/2026
+leite;Leite UHT Tipo A2 Semidesnatado Piracanjuba Caixa com Tampa 1l;R$ 6,18;6.18;Preço por Litro;6.18;Giassi;18/02/2026
+leite;Leite Pó Instantâneo Integral Tirol Pacote 400g;R$ 18,90;18.9;Preço por Kg;47.25;Giassi;18/02/2026
+leite;Leite Pó Instantâneo Integral Zero Lactose La Serenissima Pacote 300g;R$ 18,98;18.98;Preço por Kg;63.27;Giassi;18/02/2026
+leite;Leite Pasteurizado Homogeneizado Integral Tirol Pacote 1l;R$ 5,78;5.78;Preço por Litro;5.78;Giassi;18/02/2026
+leite;Leite Fermentado Desnatado Uva Bob Esponja Elegê Caixa 6 Unidades 80g Cada;R$ 6,98;6.98;Preço por Kg;87.25;Giassi;18/02/2026
+leite;Leite UHT Semidesnatado Colônia Holandesa Naturalle Caixa com Tampa 1l;R$ 5,48;5.48;Preço por Litro;5.48;Giassi;18/02/2026
+leite;Leite Condensado Zero Lactose Piracanjuba Caixa 395g;R$ 6,98;6.98;Preço por Kg;17.67;Giassi;18/02/2026
+leite;Leite Pó Desnatado Molico Lata 280g;R$ 21,78;21.78;Preço por Kg;77.79;Giassi;18/02/2026
+leite;Leite UHT Integral Zero Lactose Ninho Caixa 1l;R$ 6,58;6.58;Preço por Litro;6.58;Giassi;18/02/2026
+leite;Leite UHT Semidesnatado Zero Lactose Tirol Biociclos +Proteína Caixa com Tampa 1l;R$ 10,28;10.28;Preço por Litro;10.28;Giassi;18/02/2026
+leite;Leite UHT Semidesnatado Piracanjuba Caixa com Tampa 1l;R$ 3,78;3.78;Preço por Litro;3.78;Giassi;18/02/2026
+leite;Leite UHT Desnatado Zero Lactose Molico +Proteína Caixa com Tampa 1l;R$ 8,18;8.18;Preço por Litro;8.18;Giassi;18/02/2026
+leite;Leite Fermentado Desnatado Elegê Garrafa 1150g Tamanho Família;R$ 13,38;13.38;Preço por Kg;11.63;Giassi;18/02/2026
+leite;Leite UHT Desnatado Piracanjuba Caixa com Tampa 1l;R$ 3,78;3.78;Preço por Litro;3.78;Giassi;18/02/2026
+leite;Leite Pó Semidesnatado Ninho Adulto Lata 350g;R$ 21,78;21.78;Preço por Kg;62.23;Giassi;18/02/2026
+leite;Leite UHT Integral Leitíssimo Garrafa 1l;R$ 9,38;9.38;Preço por Litro;9.38;Giassi;18/02/2026
+leite;Leite UHT Desnatado Colônia Holandesa Naturalle Caixa com Tampa 1l;R$ 5,48;5.48;Preço por Litro;5.48;Giassi;18/02/2026
+leite;Leite UHT Integral Parmalat Garrafa 1l;R$ 4,38;4.38;Preço por Litro;4.38;Giassi;18/02/2026
+leite;Leite Uht Tirol Integral 1l;R$ 3,58;3.58;Preço por Litro;3.58;Super Koch;18/02/2026
+leite;Leite Uht Parmalat Zymil Semi Desnatado Zero Lactose 1l;R$ 4,88;4.88;Preço por Litro;4.88;Super Koch;18/02/2026
+leite;Leite Uht Parmalat Semi Desnatado 1l;R$ 3,88;3.88;Preço por Litro;3.88;Super Koch;18/02/2026
+leite;Leite Uht Tirol Semi Desnatado 1l;R$ 3,58;3.58;Preço por Litro;3.58;Super Koch;18/02/2026
+leite;Leite Uht Tirol Zero Lactose 1l;R$ 4,88;4.88;Preço por Litro;4.88;Super Koch;18/02/2026
+leite;Leite Uht Integral Leitíssimo Zero Lactose 1l;R$ 9,49;9.49;Preço por Litro;9.49;Super Koch;18/02/2026
+leite;Leite Uht Parmalat Desnatado 1l;R$ 3,88;3.88;Preço por Litro;3.88;Super Koch;18/02/2026
+leite;Leite Desnatado Uht Tirol 1l;R$ 3,58;3.58;Preço por Litro;3.58;Super Koch;18/02/2026
+leite;Leite Uht Parmalat Semi Desnatado Garrafa 1l;R$ 3,99;3.99;Preço por Litro;3.99;Super Koch;18/02/2026
+leite;Leite Uht Ninho Integral 1l;R$ 5,89;5.89;Preço por Litro;5.89;Super Koch;18/02/2026
+leite;Leite Uht Integral Aurora 1l;R$ 3,99;3.99;Preço por Litro;3.99;Super Koch;18/02/2026
+ovo;Ovos Vermelhos Com 30 Unidades;R$ 19,99;19.99;Preço por Unidade;0.67;Super Koch;18/02/2026
+ovo;Ovos Vermelhos Aurea Com 18 Unidades;R$ 13,99;13.99;Preço por Unidade;0.78;Super Koch;18/02/2026
+ovo;Ovo De Pascoa Crunch 205g;R$ 63,90;63.9;Preço por Kg;311.71;Super Koch;18/02/2026
+ovo;Ovo De Páscoa Ferrero Collection 137,5g;R$ 79,90;79.9;Preço por Kg;581.09;Super Koch;18/02/2026
+ovo;Ovo Ferrero Dark Caixa Com 137,5g;R$ 79,90;79.9;Preço por Kg;581.09;Super Koch;18/02/2026
+ovo;Ovo De Codorna Juréia 300g;R$ 16,89;16.89;Preço por Kg;56.3;Super Koch;18/02/2026
+ovo;Ovo De Páscoa Ferrero Rocher 225g;R$ 124,90;124.9;Preço por Kg;555.11;Super Koch;18/02/2026
+ovo;Ovo De Páscoa Surpresa Dinossauro 204g;R$ 75,90;75.9;Preço por Kg;372.06;Super Koch;18/02/2026
+ovo;Ovo De Páscoa Kinder Meninos 150g;R$ 114,90;114.9;Preço por Kg;766.0;Super Koch;18/02/2026
+ovo;Ovo De Páscoa Minions Kinder 100g;R$ 94,90;94.9;Preço por Kg;949.0;Super Koch;18/02/2026
+ovo;Ovo De Páscoa Ao Leite Ferrero Rocher 365g;R$ 154,90;154.9;Preço por Kg;424.38;Super Koch;18/02/2026
+ovo;Ovo De Páscoa Kinder Natoons 150g;R$ 114,90;114.9;Preço por Kg;766.0;Super Koch;18/02/2026
+carne;Carne Moída Bovina Patinho Resfriada 400g;R$ 28,99;28.99;Preço por Kg;72.47;Super Koch;18/02/2026
+carne;Carne Moida Suina Pamplona 500g;R$ 10,49;10.49;Preço por Kg;20.98;Super Koch;18/02/2026
+carne;Carne Moída Bovina Hambúrguer Koch Granito Kg;R$ 46,90;46.9;1 Un/Kg/L (Padrão);46.9;Super Koch;18/02/2026
+carne;Carne Moída Bovina Hambúrguer Koch Costela Kg;R$ 46,90;46.9;1 Un/Kg/L (Padrão);46.9;Super Koch;18/02/2026
+carne;Carne Moída Resfriada Anselmi 400g;R$ 18,99;18.99;Preço por Kg;47.47;Super Koch;18/02/2026
+carne;Carne Moida Bov Almond Koch Acem Kg;R$ 38,99;38.99;1 Un/Kg/L (Padrão);38.99;Super Koch;18/02/2026
+carne;Carne Suína Com Pele Resfriado Kg;R$ 21,99;21.99;1 Un/Kg/L (Padrão);21.99;Super Koch;18/02/2026
+carne;Escondidinho Sadia Carne Moída 600g;R$ 23,99;23.99;Preço por Kg;39.98;Super Koch;18/02/2026
+carne;Alcatra Bovina Miolo Kg;R$ 58,90;58.9;1 Un/Kg/L (Padrão);58.9;Super Koch;18/02/2026
+carne;Almôndega Best Beef Carne Bovina Bandeja 360g;R$ 21,99;21.99;Preço por Kg;61.08;Super Koch;18/02/2026
+carne;Linguiça De Carne Suína Para Churrasco Sadia 700g;R$ 16,79;16.79;Preço por Kg;23.99;Super Koch;18/02/2026
+carne;Carne Coxinha Da Asa Apimentada Premium Aurora 800g;R$ 18,99;18.99;Preço por Kg;23.74;Super Koch;18/02/2026
+arroz;Arroz Kika Parboilizado Pacote 5kg;R$ 11,99;11.99;Preço por Kg;2.4;Super Koch;18/02/2026
+arroz;Arroz Seu Arroz Parboilizado 5kg;R$ 10,99;10.99;Preço por Kg;2.2;Super Koch;18/02/2026
+arroz;Arroz Kika Parboilizado Pacote 1kg;R$ 2,49;2.49;Preço por Kg;2.49;Super Koch;18/02/2026
+arroz;Arroz Seu Arroz Parboilizado 1kg;R$ 2,49;2.49;Preço por Kg;2.49;Super Koch;18/02/2026
+arroz;Arroz Urbano Parboilizado Pacote 1kg;R$ 3,59;3.59;Preço por Kg;3.59;Super Koch;18/02/2026
+arroz;Arroz Branco Seu Arroz 1kg;R$ 2,49;2.49;Preço por Kg;2.49;Super Koch;18/02/2026
+arroz;Arroz Parboilizado Laguna 5kg;R$ 11,49;11.49;Preço por Kg;2.3;Super Koch;18/02/2026
+arroz;Arroz Urbano Parboilizado Pacote 5kg;R$ 16,99;16.99;Preço por Kg;3.4;Super Koch;18/02/2026
+arroz;Arroz Parboilizado Rambinelli 5kg;R$ 13,99;13.99;Preço por Kg;2.8;Super Koch;18/02/2026
+arroz;Arroz Parboilizado Rambinelli 1kg;R$ 2,79;2.79;Preço por Kg;2.79;Super Koch;18/02/2026
+arroz;Arroz Kika Branco Pacote 1kg;R$ 2,69;2.69;Preço por Kg;2.69;Super Koch;18/02/2026
+arroz;Arroz Kika Branco Pacote 5kg;R$ 12,99;12.99;Preço por Kg;2.6;Super Koch;18/02/2026
+feijão;Feijão Pé Vermelho Carioca 1kg;R$ 6,29;6.29;Preço por Kg;6.29;Super Koch;18/02/2026
+feijão;Feijão Caldão Preto 1kg;R$ 4,99;4.99;Preço por Kg;4.99;Super Koch;18/02/2026
+feijão;Feijão Pé Vermelho Preto 1kg;R$ 4,39;4.39;Preço por Kg;4.39;Super Koch;18/02/2026
+feijão;Feijão Carioca Urbano 1kg;R$ 7,99;7.99;Preço por Kg;7.99;Super Koch;18/02/2026
+feijão;Feijão Caldão Carioca 1kg;R$ 7,29;7.29;Preço por Kg;7.29;Super Koch;18/02/2026
+feijão;Feijão Preto Reserva 1kg;R$ 4,29;4.29;Preço por Kg;4.29;Super Koch;18/02/2026
+feijão;Feijão Urbano Preto Pacote 1kg;R$ 4,99;4.99;Preço por Kg;4.99;Super Koch;18/02/2026
+feijão;Feijão Carioca Pronto Bonare 380g;R$ 3,69;3.69;Preço por Kg;9.71;Super Koch;18/02/2026
+feijão;Feijão Vapza Carioca Cozido No Vapor 500g;R$ 17,99;17.99;Preço por Kg;35.98;Super Koch;18/02/2026
+feijão;Feijão Reserva Carioca Tipo1 Pacote Com 1kg;R$ 5,99;5.99;Preço por Kg;5.99;Super Koch;18/02/2026
+feijão;Feijão Preto Baschirotto 1kg;R$ 4,49;4.49;Preço por Kg;4.49;Super Koch;18/02/2026
+feijão;Feijão Preto Bom De Garfo 1kg;R$ 4,29;4.29;Preço por Kg;4.29;Super Koch;18/02/2026
+leite;Leite Nestle Ninho 1l Semi Desnatado Zero Lactose;R$ 6,59;6.59;Preço por Litro;6.59;Prado Supermercado;18/02/2026
+leite;Leite Desnatado Molico 1l Zero Lactose;R$ 6,99;6.99;Preço por Litro;6.99;Prado Supermercado;18/02/2026
+leite;Leite Piracanjuba 1l Desnatado Zero Lactose;R$ 5,99;5.99;Preço por Litro;5.99;Prado Supermercado;18/02/2026
+leite;Leite Tirol 1l Semi Zero Lactose;R$ 5,99;5.99;Preço por Litro;5.99;Prado Supermercado;18/02/2026
+leite;Leite Tirol 1l Integral;R$ 4,19;4.19;Preço por Litro;4.19;Prado Supermercado;18/02/2026
+leite;Leite Tirol 1l Semi Desnatado Com Tampa;R$ 4,49;4.49;Preço por Litro;4.49;Prado Supermercado;18/02/2026
+leite;Leite Aurora 1l Integral;R$ 4,29;4.29;Preço por Litro;4.29;Prado Supermercado;18/02/2026
+leite;Leite Ninho Nestle 1l Semi Desnatado Levinho;R$ 6,19;6.19;Preço por Litro;6.19;Prado Supermercado;18/02/2026
+leite;Leite Piracanjuba 1l Integral;R$ 4,59;4.59;Preço por Litro;4.59;Prado Supermercado;18/02/2026
+leite;Leite Zymil Parmalat 1l Semidesnatado Zero Lactose;R$ 4,89;4.89;Preço por Litro;4.89;Prado Supermercado;18/02/2026
+leite;Leite Terra Viva 1l Integral;R$ 3,89;3.89;Preço por Litro;3.89;Prado Supermercado;18/02/2026
+leite;Leite Piracanjuba 1l Desnatado;R$ 4,59;4.59;Preço por Litro;4.59;Prado Supermercado;18/02/2026
+ovo;Ovos Bandeja C/30 Vermelho;R$ 19,89;19.89;Preço por Unidade;0.66;Prado Supermercado;18/02/2026
+ovo;Ovo De Codorna Daoli 150g Sache;R$ 10,99;10.99;Preço por Kg;73.27;Prado Supermercado;18/02/2026
+ovo;Ovos Vermelhos C/12;R$ 10,99;10.99;Preço por Unidade;0.92;Prado Supermercado;18/02/2026
+ovo;Ovos De Codorna Daoli 300g Vidro;R$ 17,99;17.99;Preço por Kg;59.97;Prado Supermercado;18/02/2026
+ovo;Ovos De Codorna Jureia 300g Vidro;R$ 16,99;16.99;Preço por Kg;56.63;Prado Supermercado;18/02/2026
+ovo;Kinder Ovo 20g;R$ 12,99;12.99;Preço por Kg;649.5;Prado Supermercado;18/02/2026
+ovo;Kinder Ovo 20g Meninas;R$ 12,99;12.99;Preço por Kg;649.5;Prado Supermercado;18/02/2026
+ovo;Sal Cisne 100g Saleiro Ovo;R$ 8,99;8.99;Preço por Kg;89.9;Prado Supermercado;18/02/2026
+ovo;Chiclete Fini 80g Ovo Dinossauro;R$ 9,49;9.49;Preço por Kg;118.62;Prado Supermercado;18/02/2026
+ovo;Kinder Ovo 20g Meninas C/2 Unidades;R$ 22,49;22.49;Preço por Kg;1124.5;Prado Supermercado;18/02/2026
+ovo;Kinder Ovo 20g Meninos C/2 Unidades;R$ 22,49;22.49;Preço por Kg;1124.5;Prado Supermercado;18/02/2026
+ovo;Kinder Ovo 40g Patrulha Canina C/ 2un;R$ 22,49;22.49;Preço por Kg;562.25;Prado Supermercado;18/02/2026
+carne;Carne Moida Suina Pamplona Congelado 500g;R$ 10,49;10.49;Preço por Kg;20.98;Prado Supermercado;18/02/2026
+carne;Carne Moida El Golli Resfriada Kg;R$ 36,99;36.99;1 Un/Kg/L (Padrão);36.99;Prado Supermercado;18/02/2026
+carne;Carne Suina C/Pele Kg;R$ 21,99;21.99;1 Un/Kg/L (Padrão);21.99;Prado Supermercado;18/02/2026
+carne;Alcatra Bovina Moida Kg;R$ 62,90;62.9;1 Un/Kg/L (Padrão);62.9;Prado Supermercado;18/02/2026
+carne;Carne Moída P/ Hambúrguer Kg;R$ 36,99;36.99;1 Un/Kg/L (Padrão);36.99;Prado Supermercado;18/02/2026
+carne;Paleta Bovina Moida Resfriada Kg Bandeja;R$ 47,99;47.99;1 Un/Kg/L (Padrão);47.99;Prado Supermercado;18/02/2026
+carne;Escondidinho Seara 300g Carne Moida;R$ 24,99;24.99;Preço por Kg;83.3;Prado Supermercado;18/02/2026
+carne;Paleta Bovina Kg;R$ 47,49;47.49;1 Un/Kg/L (Padrão);47.49;Prado Supermercado;18/02/2026
+carne;Alcatra Bovina Kg;R$ 64,90;64.9;1 Un/Kg/L (Padrão);64.9;Prado Supermercado;18/02/2026
+carne;Carne Bovino Desfiada Vapza 400g Conserva;R$ 36,99;36.99;Preço por Kg;92.47;Prado Supermercado;18/02/2026
+carne;Maminha De Alcatra Moida Resfriada Kg;R$ 49,90;49.9;1 Un/Kg/L (Padrão);49.9;Prado Supermercado;18/02/2026
+carne;Maminha De Alcatra Bovina Kg;R$ 46,99;46.99;1 Un/Kg/L (Padrão);46.99;Prado Supermercado;18/02/2026
+arroz;Arroz Parboilizado Kika 5kg;R$ 13,99;13.99;Preço por Kg;2.8;Prado Supermercado;18/02/2026
+arroz;Arroz Parboilizado Kika 1kg;R$ 2,89;2.89;Preço por Kg;2.89;Prado Supermercado;18/02/2026
+arroz;Arroz Parboilizado Urbano 1kg;R$ 4,99;4.99;Preço por Kg;4.99;Prado Supermercado;18/02/2026
+arroz;Arroz Parboilizado Urbano 5kg;R$ 19,99;19.99;Preço por Kg;4.0;Prado Supermercado;18/02/2026
+arroz;Arroz Parboilizado Rampinelli 5kg;R$ 14,99;14.99;Preço por Kg;3.0;Prado Supermercado;18/02/2026
+arroz;Arroz Branco Kika 5kg;R$ 16,99;16.99;Preço por Kg;3.4;Prado Supermercado;18/02/2026
+arroz;Arroz Parboilizado Rampinelli 1kg;R$ 4,99;4.99;Preço por Kg;4.99;Prado Supermercado;18/02/2026
+arroz;Arroz Branco Kika 1kg;R$ 3,99;3.99;Preço por Kg;3.99;Prado Supermercado;18/02/2026
+arroz;Arroz Integral Kika 1kg;R$ 4,99;4.99;Preço por Kg;4.99;Prado Supermercado;18/02/2026
+arroz;Arroz Branco Rampinelli 5kg;R$ 25,99;25.99;Preço por Kg;5.2;Prado Supermercado;18/02/2026
+arroz;Arroz Parboilizado Tio Joao 1kg;R$ 6,99;6.99;Preço por Kg;6.99;Prado Supermercado;18/02/2026
+arroz;Arroz Branco Tio Joao 1kg;R$ 8,99;8.99;Preço por Kg;8.99;Prado Supermercado;18/02/2026
+feijão;Feijao Carioca Urbano 1kg;R$ 7,99;7.99;Preço por Kg;7.99;Prado Supermercado;18/02/2026
+feijão;Feijao Carioca Caldao 1kg;R$ 7,99;7.99;Preço por Kg;7.99;Prado Supermercado;18/02/2026
+feijão;Feijao Carioca Pirao No Prato 1kg;R$ 6,49;6.49;Preço por Kg;6.49;Prado Supermercado;18/02/2026
+feijão;Feijao Preto Urbano 1kg;R$ 4,99;4.99;Preço por Kg;4.99;Prado Supermercado;18/02/2026
+feijão;Feijao Preto Caldao 1kg;R$ 4,99;4.99;Preço por Kg;4.99;Prado Supermercado;18/02/2026
+feijão;Feijao Chines Preto 1kg;R$ 4,99;4.99;Preço por Kg;4.99;Prado Supermercado;18/02/2026
+feijão;Feijao Preto Pirao No Prato 1kg;R$ 4,39;4.39;Preço por Kg;4.39;Prado Supermercado;18/02/2026
+feijão;Feijao Preto Baschirotto 1kg;R$ 4,49;4.49;Preço por Kg;4.49;Prado Supermercado;18/02/2026
+feijão;Feijao Branco Kanty 500g;R$ 12,99;12.99;Preço por Kg;25.98;Prado Supermercado;18/02/2026
+feijão;Feijao Caldao 500g Branco;R$ 10,99;10.99;Preço por Kg;21.98;Prado Supermercado;18/02/2026
+feijão;Feijao Vermelho Caldao 1kg;R$ 12,99;12.99;Preço por Kg;12.99;Prado Supermercado;18/02/2026
+feijão;Feijao Vermelho Urbano 1kg;R$ 14,99;14.99;Preço por Kg;14.99;Prado Supermercado;18/02/2026
+Encarte;Filé de Peito de Frango MACEDO IQF Congelado Pacote 1kg;R$ 18,90;18.9;Preço por Kg;18.9;Angeloni;18/02/2026 (Encarte)
+Encarte;Leite TIROL Integral com Tampa TP 1L;R$ 3,29;3.29;Preço por Litro;3.29;Angeloni;18/02/2026 (Encarte)
+Encarte;Leite TIROL Zero Lactose com Tampa TP 1L;R$ 3,79;3.79;Preço por Litro;3.79;Angeloni;18/02/2026 (Encarte)
+Encarte;Arroz KIARROZ FUMACENSE Parboilizado Pacote 1kg;R$ 2,29;2.29;Preço por Kg;2.29;Angeloni;18/02/2026 (Encarte)
+Encarte;Café 3 CORAÇÕES Tradicional Pacote 500g;R$ 27,99;27.99;Preço por Kg;55.98;Angeloni;18/02/2026 (Encarte)
+Encarte;Café 3 CORAÇÕES Extra Forte Pacote 500g;R$ 27,99;27.99;Preço por Kg;55.98;Angeloni;18/02/2026 (Encarte)
+Encarte;Café 3 CORAÇÕES Premium Estrada Real Pacote 500g;R$ 36,99;36.99;Preço por Kg;73.98;Angeloni;18/02/2026 (Encarte)
+Encarte;Cerveja OPA BIER Pilsen Lata 350ml;R$ 2,79;2.79;Preço por Litro;7.97;Angeloni;18/02/2026 (Encarte)
+Encarte;Achocolatado TODDY Original Pote 370g;R$ 10,99;10.99;Preço por Kg;29.7;Angeloni;18/02/2026 (Encarte)
+Encarte;Molho de Tomate HEINZ Tradicional Sachet 240g;R$ 3,49;3.49;Preço por Kg;14.54;Angeloni;18/02/2026 (Encarte)
+Encarte;Creme de Leite NESTLÉ Caixa 200g;R$ 4,99;4.99;Preço por Kg;24.95;Angeloni;18/02/2026 (Encarte)
+Encarte;Açúcar Refinado CARAVELAS Pacote 1kg;R$ 3,59;3.59;Preço por Kg;3.59;Angeloni;18/02/2026 (Encarte)
+Encarte;Ovo Vermelho Gold FRIOLAR com 12 Unidades;R$ 10,99;10.99;Preço por Unidade;0.92;Angeloni;18/02/2026 (Encarte)
+Encarte;Queijo Argentino LA PAULINA Mussarela a cada 100g;R$ 3,99;3.99;Preço por Kg;39.9;Angeloni;18/02/2026 (Encarte)
+Encarte;Pizza PERDIGÃO Caixa 460g;R$ 12,99;12.99;Preço por Kg;28.24;Angeloni;18/02/2026 (Encarte)
+Encarte;Lasanha PERDIGÃO Caixa 1kg;R$ 14,99;14.99;Preço por Kg;14.99;Angeloni;18/02/2026 (Encarte)
+Encarte;Papel Higiênico PERSONAL Vip Folha Dupla 20m Leve 18 Pague 16 Rolos;R$ 17,90;17.9;1 Un/Kg/L (Padrão);17.9;Angeloni;18/02/2026 (Encarte)
+Encarte;Lava Roupas Liquido TIXAN YPE Frasco 3L;R$ 21,90;21.9;Preço por Litro;7.3;Angeloni;18/02/2026 (Encarte)
+Encarte;Jogo de Cama Microfibra A\CASA Texture Solteiro;R$ 99,90;99.9;1 Un/Kg/L (Padrão);99.9;Angeloni;18/02/2026 (Encarte)
+Encarte;Acém Bovino BEST BEEF Pedaço Resfriado kg;R$ 49,90;49.9;1 Un/Kg/L (Padrão);49.9;Angeloni;18/02/2026 (Encarte)
+Encarte;Paleta Bovina BEST BEEF Moido Resfriada kg;R$ 49,90;49.9;1 Un/Kg/L (Padrão);49.9;Angeloni;18/02/2026 (Encarte)
+Encarte;Coxão Mole Bovino BEST BEEF Moido Resfriado kg;R$ 49,90;49.9;1 Un/Kg/L (Padrão);49.9;Angeloni;18/02/2026 (Encarte)
+Encarte;Hambúrguer Angus TOP QUALITY Resfriado 300g;R$ 14,99;14.99;Preço por Kg;49.97;Angeloni;18/02/2026 (Encarte)
+Encarte;Carne Moida Traseiro TOP QUALITY Resfriado 400g;R$ 19,99;19.99;Preço por Kg;49.97;Angeloni;18/02/2026 (Encarte)
+Encarte;Frango a Passarinho de Padaria SEARA Temperado Congelado Pacote 1kg;R$ 11,90;11.9;Preço por Kg;11.9;Angeloni;18/02/2026 (Encarte)
+Encarte;Coxa de Frango SADIA IQF Pacote Congelado 1kg;R$ 17,99;17.99;Preço por Kg;17.99;Angeloni;18/02/2026 (Encarte)
+Encarte;Bisteca Suina SADIA Congelada Pacote 800g;R$ 13,90;13.9;Preço por Kg;17.38;Angeloni;18/02/2026 (Encarte)
+Encarte;Filé de Tilapia SEARA Congelado Pacote 600g;R$ 37,90;37.9;Preço por Kg;63.17;Angeloni;18/02/2026 (Encarte)
+Encarte;Linguiça PAMPLONA Toscana Resfriada Pacote 560g;R$ 11,99;11.99;Preço por Kg;21.41;Angeloni;18/02/2026 (Encarte)
+Encarte;File Mignon Suino SEARA Pedaço Resfriada kg;R$ 24,90;24.9;1 Un/Kg/L (Padrão);24.9;Angeloni;18/02/2026 (Encarte)
+Encarte;Maça Fuji kg;R$ 10,99;10.99;1 Un/Kg/L (Padrão);10.99;Angeloni;18/02/2026 (Encarte)
+Encarte;Melão Redinha Doce kg;R$ 7,99;7.99;1 Un/Kg/L (Padrão);7.99;Angeloni;18/02/2026 (Encarte)
+Encarte;Abacaxi Pérola Unidade;R$ 7,99;7.99;1 Un/Kg/L (Padrão);7.99;Angeloni;18/02/2026 (Encarte)
+Encarte;Abacate Kg;R$ 5,99;5.99;1 Un/Kg/L (Padrão);5.99;Angeloni;18/02/2026 (Encarte)
+Encarte;Mamão Formosa Kg;R$ 5,99;5.99;1 Un/Kg/L (Padrão);5.99;Angeloni;18/02/2026 (Encarte)
+Encarte;Cenoura Kg;R$ 4,29;4.29;1 Un/Kg/L (Padrão);4.29;Angeloni;18/02/2026 (Encarte)
+Encarte;Beterraba Kg;R$ 4,29;4.29;1 Un/Kg/L (Padrão);4.29;Angeloni;18/02/2026 (Encarte)
+Encarte;Batata Doce Kg;R$ 4,29;4.29;1 Un/Kg/L (Padrão);4.29;Angeloni;18/02/2026 (Encarte)
+Encarte;Moranga Kabotiá inteira Kg;R$ 2,99;2.99;1 Un/Kg/L (Padrão);2.99;Angeloni;18/02/2026 (Encarte)
+Encarte;Abóbora Paulista Kg;R$ 2,99;2.99;1 Un/Kg/L (Padrão);2.99;Angeloni;18/02/2026 (Encarte)
+Encarte;Cebola Kg;R$ 2,99;2.99;1 Un/Kg/L (Padrão);2.99;Angeloni;18/02/2026 (Encarte)
+Encarte;Pão ANGELONI Sanduíche Tradicional 400g;R$ 5,99;5.99;Preço por Kg;14.97;Angeloni;18/02/2026 (Encarte)
+Encarte;Bisnaguinha SEVEN BOYS Pacote 300g;R$ 7,99;7.99;Preço por Kg;26.63;Angeloni;18/02/2026 (Encarte)
+Encarte;Pão de Mel BARION Chocolate 90g;R$ 3,99;3.99;Preço por Kg;44.33;Angeloni;18/02/2026 (Encarte)
+Encarte;Bolinho BAUDUCCO Sabores Pacote 40g;R$ 1,69;1.69;Preço por Kg;42.25;Angeloni;18/02/2026 (Encarte)
+Encarte;Torrada MARILAN Lev Magic Toast Pacote 110g;R$ 7,99;7.99;Preço por Kg;72.64;Angeloni;18/02/2026 (Encarte)
+Encarte;Empanado de Frango SEARA Chicken Caixa 300g;R$ 9,99;9.99;Preço por Kg;33.3;Angeloni;18/02/2026 (Encarte)
+Encarte;Cream Cheese DANUBIO Pote 300g;R$ 16,99;16.99;Preço por Kg;56.63;Angeloni;18/02/2026 (Encarte)
+Encarte;Batata MC CAIN Clássicas Pacote 1.05Kg;R$ 16,99;16.99;Preço por Kg;16.18;Angeloni;18/02/2026 (Encarte)
+Encarte;Pão de Queijo VIN DI MINAS Tradicional Congelado Pacote 1Kg;R$ 16,99;16.99;Preço por Kg;16.99;Angeloni;18/02/2026 (Encarte)
+Encarte;Queijo Parmesão Uruguaio CONAPROLE Ralado Pote 200g;R$ 15,90;15.9;Preço por Kg;79.5;Angeloni;18/02/2026 (Encarte)
+Encarte;Linguiça SADIA Mista Fininha Pacote 215g;R$ 7,99;7.99;Preço por Kg;37.16;Angeloni;18/02/2026 (Encarte)
+Encarte;Linguiça SADIA Calabresa Pacote 400g;R$ 12,99;12.99;Preço por Kg;32.48;Angeloni;18/02/2026 (Encarte)
+Encarte;Bacon Fatiado SADIA kg;R$ 34,90;34.9;1 Un/Kg/L (Padrão);34.9;Angeloni;18/02/2026 (Encarte)
+Encarte;Presunto Cozido Fatiado SADIA kg;R$ 34,90;34.9;1 Un/Kg/L (Padrão);34.9;Angeloni;18/02/2026 (Encarte)
+Encarte;Salsicha Hot Dog PERDIGÃO Pacote 500g;R$ 10,99;10.99;Preço por Kg;21.98;Angeloni;18/02/2026 (Encarte)
+Encarte;Iogurte VIGOR Grego Pote 90g;R$ 2,99;2.99;Preço por Kg;33.22;Angeloni;18/02/2026 (Encarte)
+Encarte;Iogurte NESTLÉ Natural 340g;R$ 5,99;5.99;Preço por Kg;17.62;Angeloni;18/02/2026 (Encarte)
+Encarte;Néctar DEL VALLE TP 1L;R$ 7,99;7.99;Preço por Litro;7.99;Angeloni;18/02/2026 (Encarte)
+Encarte;Água de Coco CAMPO LARGO Garrafa 900ml;R$ 10,99;10.99;Preço por Litro;12.21;Angeloni;18/02/2026 (Encarte)
+Encarte;Bebida Energética BALY Lata 473ml;R$ 5,99;5.99;Preço por Litro;12.66;Angeloni;18/02/2026 (Encarte)
+Encarte;Chá LIPTON Ice Tea Pet 1.5L;R$ 7,99;7.99;Preço por Litro;5.33;Angeloni;18/02/2026 (Encarte)
+Encarte;Bebida Isotonico POWERADE Pet 500ml;R$ 3,99;3.99;Preço por Litro;7.98;Angeloni;18/02/2026 (Encarte)
+Encarte;Suco TIAL Maria Clara e Jp Maça 100% Suco 200ml;R$ 1,99;1.99;Preço por Litro;9.95;Angeloni;18/02/2026 (Encarte)
+Encarte;Refrigerante SUKITA 2L;R$ 7,29;7.29;Preço por Litro;3.65;Angeloni;18/02/2026 (Encarte)
+Encarte;Refrigerante COCA-COLA Pet 200ml;R$ 1,69;1.69;Preço por Litro;8.45;Angeloni;18/02/2026 (Encarte)
+Encarte;REFRESCO KAPO 200ML;R$ 2,19;2.19;Preço por Litro;10.95;Angeloni;18/02/2026 (Encarte)
+Encarte;Massa ORQUIDEA Semola Pacote 500g;R$ 2,69;2.69;Preço por Kg;5.38;Angeloni;18/02/2026 (Encarte)
+Encarte;Óleo de Soja COAMO Refinado Pet 900ml;R$ 6,79;6.79;Preço por Litro;7.54;Angeloni;18/02/2026 (Encarte)
+Encarte;Azeite de Oliva Português ANDORINHA Extra Virgem Garrafa 500ml;R$ 34,90;34.9;Preço por Litro;69.8;Angeloni;18/02/2026 (Encarte)
+Encarte;Mostarda HEINZ Frasco 255g;R$ 14,90;14.9;Preço por Kg;58.43;Angeloni;18/02/2026 (Encarte)
+Encarte;Maionese HEINZ Frasco 390g;R$ 14,90;14.9;Preço por Kg;38.21;Angeloni;18/02/2026 (Encarte)
+Encarte;Ketchup HEINZ Frasco 397g;R$ 14,90;14.9;Preço por Kg;37.53;Angeloni;18/02/2026 (Encarte)
+Encarte;Farofa Pronta ROCHA Pacote 250g;R$ 3,39;3.39;Preço por Kg;13.56;Angeloni;18/02/2026 (Encarte)
+Encarte;Batata Palha MISTER POTEITOS Pacote 270g;R$ 13,99;13.99;Preço por Kg;51.81;Angeloni;18/02/2026 (Encarte)
+Encarte;Milho BONARE Lata 170g;R$ 2,49;2.49;Preço por Kg;14.65;Angeloni;18/02/2026 (Encarte)
+Encarte;Ovo de Codorna DAOLI Sachet 150g;R$ 7,49;7.49;Preço por Kg;49.93;Angeloni;18/02/2026 (Encarte)
+Encarte;Ovo de Codorna DAOLI Vidro 300g;R$ 12,90;12.9;Preço por Kg;43.0;Angeloni;18/02/2026 (Encarte)
+Encarte;Macarrão NISSIN Instantâneo;R$ 2,59;2.59;1 Un/Kg/L (Padrão);2.59;Angeloni;18/02/2026 (Encarte)
+Encarte;Macarrão NISSIN Cup Noodles;R$ 4,89;4.89;1 Un/Kg/L (Padrão);4.89;Angeloni;18/02/2026 (Encarte)
+Encarte;Milho de Pipoca KANTY Pacote 400g;R$ 2,99;2.99;Preço por Kg;7.48;Angeloni;18/02/2026 (Encarte)
+Encarte;Amendoim KANTY Pacote 400g;R$ 3,99;3.99;Preço por Kg;9.97;Angeloni;18/02/2026 (Encarte)
+Encarte;Café COFFEE++ Torrado e Moído Pacote 250g;R$ 24,90;24.9;Preço por Kg;99.6;Angeloni;18/02/2026 (Encarte)
+Encarte;Café NESCAFÉ Solúvel Sache 40g;R$ 6,99;6.99;Preço por Kg;174.75;Angeloni;18/02/2026 (Encarte)
+Encarte;Café NESCAFÉ Solúvel Vidro 160g;R$ 28,90;28.9;Preço por Kg;180.62;Angeloni;18/02/2026 (Encarte)
+Encarte;Leite em Pó PIRACANJUBA Integral instantâneo 400g;R$ 15,90;15.9;Preço por Kg;39.75;Angeloni;18/02/2026 (Encarte)
+Encarte;Café STARBUCKS Caixa com 10 Cápsulas 53/57g;R$ 23,90;23.9;Preço por Kg;419.3;Angeloni;18/02/2026 (Encarte)
+Encarte;Biscoito NEGRESCO Recheado Pacote 90g;R$ 2,99;2.99;Preço por Kg;33.22;Angeloni;18/02/2026 (Encarte)
+Encarte;Chocolate LACTA Bis Caixa 100.8g;R$ 6,29;6.29;Preço por Kg;62.4;Angeloni;18/02/2026 (Encarte)
+Encarte;Chocolate GAROTO Barra 80g;R$ 7,99;7.99;Preço por Kg;99.88;Angeloni;18/02/2026 (Encarte)
+Encarte;Salgadinho Doritos ELMA CHIPS Queijo Nacho 210g;R$ 14,99;14.99;Preço por Kg;71.38;Angeloni;18/02/2026 (Encarte)
+Encarte;Biscoito Espanhol GULLON Mini Cracker Pote 350g;R$ 12,90;12.9;Preço por Kg;36.86;Angeloni;18/02/2026 (Encarte)
+Encarte;Biscoito CLUB SOCIAL Pacote 144g;R$ 5,39;5.39;Preço por Kg;37.43;Angeloni;18/02/2026 (Encarte)
+Encarte;Shampoo EUDORA Siáge 250ml;R$ 39,90;39.9;Preço por Litro;159.6;Angeloni;18/02/2026 (Encarte)
+Encarte;Condicionador EUDORA Siáge 200ml;R$ 41,90;41.9;Preço por Litro;209.5;Angeloni;18/02/2026 (Encarte)
+Encarte;Shampoo DOVE 350/370ml;R$ 27,90;27.9;Preço por Litro;75.41;Angeloni;18/02/2026 (Encarte)
+Encarte;Condicionador DOVE 250/370ml;R$ 28,90;28.9;Preço por Litro;78.11;Angeloni;18/02/2026 (Encarte)
+Encarte;Kit ELSEVE Shampoo 375ml + Condicionador 170ml;R$ 32,90;32.9;Preço por Litro;87.73;Angeloni;18/02/2026 (Encarte)
+Encarte;Creme Dental COLGATE Total com 3 Unidades 90g;R$ 21,99;21.99;Preço por Kg;244.33;Angeloni;18/02/2026 (Encarte)
+Encarte;Creme Dental COLGATE Sensitive Pró Alívio 90g;R$ 26,99;26.99;Preço por Kg;299.89;Angeloni;18/02/2026 (Encarte)
+Encarte;Enxaguante Bucal Colgate Plax 750ml;R$ 15,99;15.99;Preço por Litro;21.32;Angeloni;18/02/2026 (Encarte)
+Encarte;Escova Dental Slim Soft Carvão com 4 unidades;R$ 29,99;29.99;Preço por Unidade;7.5;Angeloni;18/02/2026 (Encarte)
+Encarte;Carga GILLETTE Mach3 com 4;R$ 39,90;39.9;Preço por Unidade;9.97;Angeloni;18/02/2026 (Encarte)
+Encarte;Carga GILLETTE Venus com 4;R$ 39,90;39.9;Preço por Unidade;9.97;Angeloni;18/02/2026 (Encarte)
+Encarte;Carga GILLETTE Mach3 Sensitive com 8;R$ 59,90;59.9;Preço por Unidade;7.49;Angeloni;18/02/2026 (Encarte)
+Encarte;Carga GILLETTE Carbono com 8;R$ 59,90;59.9;Preço por Unidade;7.49;Angeloni;18/02/2026 (Encarte)
+Encarte;Desodorante REXONA Aerossol 150ml;R$ 16,99;16.99;Preço por Litro;113.27;Angeloni;18/02/2026 (Encarte)
+Encarte;Desodorante REXONA Clinical 150ml;R$ 19,99;19.99;Preço por Litro;133.27;Angeloni;18/02/2026 (Encarte)
+Encarte;Absorvente SEMPRE LIVRE com Abas 32 Unidades;R$ 14,99;14.99;Preço por Unidade;0.47;Angeloni;18/02/2026 (Encarte)
+Encarte;Protetor Diário CAREFREE Higiênico Suave com 80 Unidades;R$ 20,99;20.99;Preço por Unidade;0.26;Angeloni;18/02/2026 (Encarte)
+Encarte;Sabonete DOVE com 6 Unidades 90g;R$ 26,90;26.9;Preço por Kg;298.89;Angeloni;18/02/2026 (Encarte)
+Encarte;Fralda Descartável HUGGIES Máxima Proteção;R$ 69,90;69.9;1 Un/Kg/L (Padrão);69.9;Angeloni;18/02/2026 (Encarte)
+Encarte;Lava Roupa em Pó OMO Caixa 1.6kg;R$ 19,99;19.99;Preço por Kg;12.49;Angeloni;18/02/2026 (Encarte)
+Encarte;Amaciante de Roupa YPE Diluido 2L;R$ 7,99;7.99;Preço por Litro;4.0;Angeloni;18/02/2026 (Encarte)
+Encarte;Amaciante de Roupa YPE Concentrado 1L;R$ 13,99;13.99;Preço por Litro;13.99;Angeloni;18/02/2026 (Encarte)
+Encarte;Limpador VEJA X-14 Tira Limo 500ml;R$ 14,90;14.9;Preço por Litro;29.8;Angeloni;18/02/2026 (Encarte)
+Encarte;Desinfetante AQUAFAST 2L;R$ 5,99;5.99;Preço por Litro;3.0;Angeloni;18/02/2026 (Encarte)
+Encarte;Saponáceo SAPÓLIO RADIUM Cremoso 300ml;R$ 8,99;8.99;Preço por Litro;29.97;Angeloni;18/02/2026 (Encarte)
+Encarte;Lava Louça FINISH Powerball com 30 Tabletes;R$ 34,90;34.9;Preço por Unidade;1.16;Angeloni;18/02/2026 (Encarte)
+Encarte;Lava Louça FINISH Advanced Pote 1kg;R$ 35,90;35.9;Preço por Kg;35.9;Angeloni;18/02/2026 (Encarte)
+Encarte;Desinfetante Aparelho Sanitário HARPIC;R$ 14,90;14.9;1 Un/Kg/L (Padrão);14.9;Angeloni;18/02/2026 (Encarte)
+Encarte;Desinfetante Sanitário HARPIC 750ml;R$ 29,90;29.9;Preço por Litro;39.87;Angeloni;18/02/2026 (Encarte)
+Encarte;Aparelho Elétrico SBP Refil 35ml;R$ 14,99;14.99;Preço por Litro;428.29;Angeloni;18/02/2026 (Encarte)
+Encarte;Inseticida Aerossol SBP 450ml;R$ 18,90;18.9;Preço por Litro;42.0;Angeloni;18/02/2026 (Encarte)
+Encarte;Saco para Lixo DOVER ROLL Banheiro/Pia com 50 Unidades;R$ 11,90;11.9;Preço por Unidade;0.24;Angeloni;18/02/2026 (Encarte)
+Encarte;Saco para Lixo DOVER ROLL Reciclado 50L;R$ 20,99;20.99;Preço por Litro;0.42;Angeloni;18/02/2026 (Encarte)
+Encarte;Caneca para Chopp A\CASA Rio 415ml;R$ 14,90;14.9;Preço por Litro;35.9;Angeloni;18/02/2026 (Encarte)
+Encarte;Lixeira Vintage Metal A\CASA Branco 5L;R$ 69,90;69.9;Preço por Litro;13.98;Angeloni;18/02/2026 (Encarte)
+Encarte;Sache PEDIGREE 100g;R$ 10,90;10.9;Preço por Kg;109.0;Angeloni;18/02/2026 (Encarte)
+Encarte;Sache WHISKAS 85g;R$ 10,90;10.9;Preço por Kg;128.24;Angeloni;18/02/2026 (Encarte)
+Encarte;Alimento para Cães DOG CHOW 900g;R$ 19,90;19.9;Preço por Kg;22.11;Angeloni;18/02/2026 (Encarte)
+Encarte;Alimento para Cães FRISKIES 1kg;R$ 23,90;23.9;Preço por Kg;23.9;Angeloni;18/02/2026 (Encarte)
+Encarte;Alimento MONELLO Cães Pacote 1kg;R$ 29,90;29.9;Preço por Kg;29.9;Angeloni;18/02/2026 (Encarte)
+Encarte;Alimento Úmido FRISKIES 85g;R$ 2,69;2.69;Preço por Kg;31.65;Angeloni;18/02/2026 (Encarte)
+Encarte;Alimento Úmido DOG CHOW 100g;R$ 2,69;2.69;Preço por Kg;26.9;Angeloni;18/02/2026 (Encarte)
+Encarte;Alimento para Cães/Gatos PEDIGREE Pacote 900g;R$ 19,90;19.9;Preço por Kg;22.11;Angeloni;18/02/2026 (Encarte)
+Encarte;Kit Pet SANOL Dog Shampoo 500ml + Condicionador 500ml+Colonia 120ml;R$ 49,90;49.9;Preço por Litro;99.8;Angeloni;18/02/2026 (Encarte)
+Encarte;Tapete Higiênico para Cães SANOL 60x80cm 7 Unidades;R$ 99,90;99.9;Preço por Unidade;14.27;Angeloni;18/02/2026 (Encarte)
+Encarte;Areia Higiênica para Gatos PIPICAT Classic Pacote 4Kg;R$ 14,99;14.99;Preço por Kg;3.75;Angeloni;18/02/2026 (Encarte)
+Encarte;Mixer BRITANIA 3 em 1 220V BMX400P;R$ 159,90;159.9;1 Un/Kg/L (Padrão);159.9;Angeloni;18/02/2026 (Encarte)
+Encarte;Ferro a Vapor OSTER 1200W 220V GCSTB;R$ 89,90;89.9;1 Un/Kg/L (Padrão);89.9;Angeloni;18/02/2026 (Encarte)
+Encarte;Lavadora e Secadora de Roupas LG Inox 12KG 220V CV5012PC4;R$ 4,298,00;4298.0;Preço por Kg;358.17;Angeloni;18/02/2026 (Encarte)
+Encarte;"SMART TV SAMSUNG 50"" QLED 4K QN50Q7FAA";R$ 2,598,00;2598.0;1 Un/Kg/L (Padrão);2598.0;Angeloni;18/02/2026 (Encarte)
+Encarte;"SMART TV LG 65"" LED Ultra HD 4K 65UA8550PSA";R$ 3,698,00;3698.0;1 Un/Kg/L (Padrão);3698.0;Angeloni;18/02/2026 (Encarte)
+Encarte;Frigobar ELECTROLUX 47 Litros Branco 220V EM50;R$ 749,00;749.0;Preço por Litro;15.94;Angeloni;18/02/2026 (Encarte)
+Encarte;Refrigerador LG 461 Litros Inox 220V GNB452PFF2;R$ 3,598,00;3598.0;Preço por Litro;7.8;Angeloni;18/02/2026 (Encarte)
+Encarte;Seleção de Queijos CRUZÍLIA Fracionados 140g;R$ 17,90;17.9;Preço por Kg;127.86;Angeloni;18/02/2026 (Encarte)
+Encarte;Requeijão CRUZÍLIA Pote 180g;R$ 6,99;6.99;Preço por Kg;38.83;Angeloni;18/02/2026 (Encarte)
+Encarte;Queijo Tipo Gorgonzola CRUZÍLIA a cada 100g;R$ 7,99;7.99;Preço por Kg;79.9;Angeloni;18/02/2026 (Encarte)
+Encarte;Creme de Ricota CRUZÍLIA Pote 200g;R$ 8,79;8.79;Preço por Kg;43.95;Angeloni;18/02/2026 (Encarte)
+Encarte;Queijo Quark CRUZÍLIA Pote 200g;R$ 8,79;8.79;Preço por Kg;43.95;Angeloni;18/02/2026 (Encarte)
+Encarte;Queijo CRUZILIA Mozzarela de Búfala 150g;R$ 15,99;15.99;Preço por Kg;106.6;Angeloni;18/02/2026 (Encarte)
+Encarte;Queijo CRUZILIA Azul Damasco e Nozes kg;R$ 99,90;99.9;1 Un/Kg/L (Padrão);99.9;Angeloni;18/02/2026 (Encarte)
+Encarte;Iogurte DANONE Natural Pote 160g;R$ 3,59;3.59;Preço por Kg;22.44;Angeloni;18/02/2026 (Encarte)
+Encarte;Leite Fermentado ACTIVIA Café da Manhã 170g;R$ 5,99;5.99;Preço por Kg;35.24;Angeloni;18/02/2026 (Encarte)
+Encarte;Iogurte DANONE Mais Proteina 10g Zero Lactose Pote 60g;R$ 4,99;4.99;Preço por Kg;499.0;Angeloni;18/02/2026 (Encarte)
+Encarte;Iogurte DANONE Garrafa 1250g;R$ 14,99;14.99;Preço por Kg;11.99;Angeloni;18/02/2026 (Encarte)
+Encarte;Sobremesa DANETTE Embalagem Economica 540g;R$ 15,99;15.99;Preço por Kg;29.61;Angeloni;18/02/2026 (Encarte)
+Encarte;Melancia Inteira Kg;R$ 1,99;1.99;1 Un/Kg/L (Padrão);1.99;Angeloni;18/02/2026 (Encarte)
+Encarte;Sorvete NESTLE Tradicional Pote 1.5L;R$ 19,90;19.9;Preço por Litro;13.27;Angeloni;18/02/2026 (Encarte)
+Encarte;Açaí FROOTY Bob Esponja Pote 1.5L;R$ 29,90;29.9;Preço por Litro;19.93;Angeloni;18/02/2026 (Encarte)
+Encarte;Bebida Láctea PIRACANJUBA Whey 23g de Proteina 250ml;R$ 7,95;7.95;Preço por Kg;345.65;Angeloni;18/02/2026 (Encarte)
+Encarte;Suco PRATS Laranja Refrigerado Garrafa 1.5L;R$ 20,99;20.99;Preço por Litro;13.99;Angeloni;18/02/2026 (Encarte)
+Encarte;Cerveja IMIGRAÇÃO 1824 Zero Açúcar Lata 350ml;R$ 5,49;5.49;Preço por Litro;15.69;Angeloni;18/02/2026 (Encarte)
+Encarte;Vodka ABSOLUT Garrafa 750ml;R$ 99,50;99.5;Preço por Litro;132.67;Angeloni;18/02/2026 (Encarte)
+Encarte;Bebida CRYSTAL Garrafa 510ml;R$ 2,29;2.29;Preço por Litro;4.49;Angeloni;18/02/2026 (Encarte)
+Encarte;Cerveja FLYING FISH 330ml;R$ 5,79;5.79;Preço por Litro;17.55;Angeloni;18/02/2026 (Encarte)
+Encarte;Kit Cerveja LOHN com 3 Long Neck 355ml;R$ 19,90;19.9;Preço por Litro;56.06;Angeloni;18/02/2026 (Encarte)
+Encarte;Pepino HEMMER Vidro 300g;R$ 16,99;16.99;Preço por Kg;56.63;Angeloni;18/02/2026 (Encarte)
+Encarte;OVINHOS ELMA CHIPS AMENDOIM PCT 145G;R$ 6,99;6.99;Preço por Kg;48.21;Angeloni;18/02/2026 (Encarte)
+Encarte;Colchão Inflável BESTWAY Sem Bomba Solteiro;R$ 149,90;149.9;1 Un/Kg/L (Padrão);149.9;Angeloni;18/02/2026 (Encarte)
+Encarte;Ombrelone A\CASA 3 Metros Cores;R$ 498,00;498.0;1 Un/Kg/L (Padrão);498.0;Angeloni;18/02/2026 (Encarte)
+Encarte;Carrinho de Praia MOR Aluminio;R$ 199,90;199.9;1 Un/Kg/L (Padrão);199.9;Angeloni;18/02/2026 (Encarte)
+Encarte;Bolsa Térmica A\CASA 5L;R$ 139,90;139.9;Preço por Litro;27.98;Angeloni;18/02/2026 (Encarte)
+Encarte;Caixa Térmica MOR 18L;R$ 64,90;64.9;Preço por Litro;3.61;Angeloni;18/02/2026 (Encarte)
+Encarte;Guarda Sol A\CASA 2.40m Modelo Sunny;R$ 179,90;179.9;1 Un/Kg/L (Padrão);179.9;Angeloni;18/02/2026 (Encarte)
+Encarte;Guarda Sol A\CASA 2.40m Demais modelos;R$ 219,90;219.9;1 Un/Kg/L (Padrão);219.9;Angeloni;18/02/2026 (Encarte)
+Encarte;Ventilador de Mesa MONDIAL 40cm Super Power Mondial 220V;R$ 149,90;149.9;1 Un/Kg/L (Padrão);149.9;Angeloni;18/02/2026 (Encarte)
+Encarte;Ar-Condicionado GREE GTOP GWH09ATB 9000BTUS Quente e Frio Inverter 220V;R$ 2,298,00;2298.0;1 Un/Kg/L (Padrão);2298.0;Angeloni;18/02/2026 (Encarte)
